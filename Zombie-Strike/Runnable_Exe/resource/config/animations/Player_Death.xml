@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Animations>
+  <Animation looping="0">1007-Soldier_Flipped.png
+  <Frame sx="60" sy="858" sw="133" sh="964" cx="-180" cy="-2574" cw="-180" ch="-2574" px="36" py="75" rx="36" ry="75" duration="0.25">NONE</Frame>
+    <Frame sx="193" sy="859" sw="301" sh="983" cx="-579" cy="-2577" cw="-579" ch="-2577" px="29" py="88" rx="31" ry="74" duration="0.25">NONE</Frame>
+    <Frame sx="364" sy="880" sw="511" sh="997" cx="-1092" cy="-2640" cw="-1092" ch="-2640" px="65" py="91" rx="68" ry="62" duration="0.25">NONE</Frame>
+    <Frame sx="512" sy="874" sw="676" sh="1016" cx="-1024" cy="-1748" cw="-1024" ch="-1748" px="63" py="99" rx="80" ry="74" duration="0.25">NONE</Frame>
+    <Frame sx="678" sy="875" sw="837" sh="1016" cx="-1356" cy="-1750" cw="-1356" ch="-1750" px="54" py="89" rx="80" ry="78" duration="0.25">NONE</Frame>
+    <Frame sx="8" sy="718" sw="177" sh="857" cx="-16" cy="-1436" cw="-16" ch="-1436" px="62" py="87" rx="83" ry="75" duration="0.25">NONE</Frame>
+    <Frame sx="177" sy="718" sw="344" sh="859" cx="-354" cy="-1436" cw="-354" ch="-1436" px="62" py="89" rx="81" ry="72" duration="0.25">NONE</Frame>
+    <Frame sx="344" sy="718" sw="511" sh="859" cx="-688" cy="-1436" cw="-688" ch="-1436" px="62" py="89" rx="79" ry="73" duration="0.25">NONE</Frame>
+    <Frame sx="510" sy="718" sw="678" sh="859" cx="-1020" cy="-1436" cw="-1020" ch="-1436" px="62" py="89" rx="82" ry="78" duration="0.25">NONE</Frame>
+    <Frame sx="678" sy="718" sw="846" sh="858" cx="-1356" cy="-1436" cw="-1356" ch="-1436" px="63" py="88" rx="79" ry="74" duration="0.25">NONE</Frame>
+    <Sheet path="C:\Users\fullsail\Desktop\Structure_of_Game_Production_I_September_2014\ProjectRepo\repo8\silent-strike\resource\graphics\1007-Soldier_Flipped.png" /></Animation>
+</Animations>

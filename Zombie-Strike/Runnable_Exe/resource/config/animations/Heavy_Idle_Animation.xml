@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Animations>
+  <Animation looping="0">zombiestrike_player.png
+    <Frame sx="405" sy="148" sw="464" sh="252" cx="8" cy="50" cw="44" ch="93" px="23" py="70" rx="23" ry="70" duration="0.25">NONE</Frame>
+    <Sheet path="C:\Users\fullsail\Desktop\Structure_of_Game_Production_I_September_2014\ProjectRepo2\repo7\zombiestrike\resource\graphics\zombiestrike_player.png" />
+  </Animation>
+</Animations>

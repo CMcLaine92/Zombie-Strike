@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Animations>
+  <Animation looping="0">landmine.png<Frame sx="1" sy="0" sw="30" sh="30" cx="0" cy="0" cw="29" ch="30" px="15" py="16" rx="15" ry="16" duration="0.25">NONE</Frame><Sheet path="C:\Users\fullsail\Desktop\Structure_of_Game_Production_I_September_2014\ProjectRepo2\repo3\zombiestrike\resource\graphics\landmine.png" /></Animation>
+</Animations>

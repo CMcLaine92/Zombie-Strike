@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Animations>
+  <Animation looping="0">tset.png<Frame sx="193" sy="193" sw="224" sh="223" cx="1" cy="1" cw="31" ch="30" px="15" py="14" rx="15" ry="11" duration="0.25">NONE</Frame><Sheet path="C:\Users\fullsail\Desktop\ZombieStrike\resource\graphics\tset.png" /></Animation>
+</Animations>

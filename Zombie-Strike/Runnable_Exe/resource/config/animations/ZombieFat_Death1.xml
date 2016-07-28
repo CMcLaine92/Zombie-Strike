@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Animations>
+  <Animation looping="0">zombie_topdown_fat.png
+    <Frame sx="5183" sy="804" sw="5271" sh="889" cx="-5183" cy="-804" cw="-5183" ch="-804" px="42" py="44" rx="42" ry="44" duration="0.15">NONE</Frame>
+    <Frame sx="5370" sy="795" sw="5449" sh="901" cx="-5370" cy="-795" cw="-5370" ch="-795" px="38" py="53" rx="38" ry="53" duration="0.15">NONE</Frame>
+    <Frame sx="5552" sy="795" sw="5625" sh="911" cx="-5552" cy="-795" cw="-5552" ch="-795" px="34" py="53" rx="34" ry="53" duration="0.15">NONE</Frame>
+    <Frame sx="5731" sy="788" sw="5816" sh="919" cx="-5731" cy="-788" cw="-5731" ch="-788" px="43" py="60" rx="43" ry="60" duration="0.25">NONE</Frame>
+    <Frame sx="5901" sy="781" sw="6013" sh="953" cx="-5901" cy="-781" cw="-5901" ch="-781" px="54" py="67" rx="54" ry="67" duration="0.50">NONE</Frame>
+    <Frame sx="6075" sy="773" sw="6192" sh="950" cx="-6075" cy="-773" cw="-6075" ch="-773" px="59" py="75" rx="59" ry="75" duration="3.00">NONE</Frame>
+    <Sheet path="C:\Users\fullsail\Desktop\Structure_of_Game_Production_I_September_2014\ProjectRepo2\repo7\zombiestrike\resource\graphics\zombie_topdown_fat.png" />
+  </Animation>
+</Animations>

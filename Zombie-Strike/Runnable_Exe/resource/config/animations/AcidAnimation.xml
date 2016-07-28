@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Animations>
+  <Animation looping="0">acidgun_die.png
+<Frame sx="10" sy="11" sw="43" sh="40" cx="7" cy="7" cw="24" ch="23" px="15" py="13" rx="15" ry="13" duration="0.02">NONE</Frame>
+<Frame sx="49" sy="0" sw="103" sh="52" cx="9" cy="8" cw="46" ch="46" px="26" py="25" rx="26" ry="24" duration="0.02">NONE</Frame>
+<Frame sx="106" sy="2" sw="146" sh="45" cx="10" cy="13" cw="32" ch="35" px="20" py="24" rx="20" ry="24" duration="0.02">NONE</Frame>
+<Frame sx="154" sy="9" sw="198" sh="45" cx="10" cy="7" cw="36" ch="29" px="23" py="18" rx="22" ry="18" duration="0.02">NONE</Frame>
+<Frame sx="203" sy="5" sw="248" sh="48" cx="11" cy="7" cw="37" ch="36" px="24" py="21" rx="23" ry="20" duration="0.02">NONE</Frame>
+<Frame sx="1" sy="47" sw="47" sh="96" cx="11" cy="15" cw="39" ch="45" px="24" py="29" rx="24" ry="29" duration="0.02">NONE</Frame>
+<Frame sx="48" sy="50" sw="100" sh="101" cx="11" cy="12" cw="42" ch="42" px="26" py="25" rx="26" ry="24" duration="0.02">NONE</Frame>
+<Frame sx="99" sy="50" sw="150" sh="98" cx="7" cy="11" cw="45" ch="44" px="25" py="25" rx="25" ry="25" duration="0.02">NONE</Frame>
+<Frame sx="146" sy="48" sw="200" sh="102" cx="11" cy="5" cw="45" ch="49" px="27" py="27" rx="27" ry="27" duration="0.02">NONE</Frame>
+<Frame sx="197" sy="47" sw="252" sh="102" cx="13" cy="15" cw="39" ch="42" px="26" py="26" rx="26" ry="26" duration="0.02">NONE</Frame>
+<Frame sx="2" sy="100" sw="56" sh="153" cx="8" cy="10" cw="39" ch="42" px="21" py="24" rx="19" ry="24" duration="0.02">NONE</Frame>
+<Sheet path="C:\Users\fullsail\Desktop\ZombieStrike\resource\graphics\acidgun_die.png" /></Animation>
+</Animations>

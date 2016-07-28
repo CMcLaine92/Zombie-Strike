@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Animations>
+  <Animation looping="0">zombies.jpg<Frame sx="228" sy="90" sw="276" sh="133" cx="13" cy="22" cw="36" ch="39" px="24" py="29" rx="25" ry="28" duration="0.25">NONE</Frame><Sheet path="C:\Users\fullsail\Desktop\ZombieStrike\resource\graphics\zombies.jpg" /></Animation>
+</Animations>

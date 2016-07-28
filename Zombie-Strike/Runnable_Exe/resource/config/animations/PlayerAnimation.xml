@@ -1,0 +1,5 @@
+<Animations>
+    <Animation looping="1">Player.png
+        <Frame sx="0.000000" sy="0.000000" sw="128.000000" sh="128.000000" cx="32.000000" cy="32.000000" cw="100.000000" ch="96.000000" px="64.000000" py="96.000000"  rx="64.000000" ry="96.000000" duration="0.000000">NONE</Frame>
+    </Animation>
+</Animations>

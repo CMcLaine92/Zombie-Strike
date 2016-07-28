@@ -1,0 +1,5 @@
+<Animations>
+    <Animation looping="1">bullet.png
+        <Frame sx="0.000000" sy="0" sw="16.000000" sh="16.000000" cx="6.000000" cy="0.000000" cw="10.000000" ch="4.000000" px="8.000000" py="16.000000"  rx="8.000000" ry="8.000000" duration="0.000000">NONE</Frame>
+    </Animation>
+</Animations>

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Animations>
+  <Animation looping="1">zombiestrike_player.png
+    <Frame sx="973" sy="225" sw="1033" sh="335" cx="8" cy="39" cw="43" ch="75" px="24" py="58" rx="24" ry="58" duration="0.1">NONE</Frame>
+    <Frame sx="1036" sy="223" sw="1099" sh="324" cx="10" cy="45" cw="49" ch="75" px="26" py="60" rx="26" ry="60" duration="0.1">NONE</Frame>
+    <Frame sx="1100" sy="221" sw="1168" sh="322" cx="12" cy="47" cw="50" ch="78" px="29" py="62" rx="29" ry="62" duration="0.1">NONE</Frame>
+    <Frame sx="1170" sy="225" sw="1228" sh="317" cx="7" cy="44" cw="44" ch="76" px="24" py="58" rx="24" ry="58" duration="0.1">NONE</Frame>
+    <Frame sx="1236" sy="221" sw="1295" sh="336" cx="7" cy="49" cw="45" ch="80" px="24" py="62" rx="24" ry="62" duration="0.1">NONE</Frame>
+    <Frame sx="973" sy="343" sw="1038" sh="438" cx="8" cy="46" cw="44" ch="79" px="28" py="59" rx="28" ry="59" duration="0.1">NONE</Frame>
+    <Frame sx="1038" sy="340" sw="1098" sh="437" cx="10" cy="49" cw="46" ch="79" px="24" py="62" rx="24" ry="62" duration="0.1">NONE</Frame>
+    <Frame sx="1105" sy="337" sw="1162" sh="442" cx="7" cy="48" cw="44" ch="82" px="22" py="66" rx="22" ry="66" duration="0.1">NONE</Frame>
+    <Sheet path="C:\Users\fullsail\Desktop\Structure_of_Game_Production_I_September_2014\ProjectRepo2\repo7\zombiestrike\resource\graphics\zombiestrike_player.png" />
+  </Animation>
+</Animations>

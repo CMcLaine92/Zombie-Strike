@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Animations>
+  <Animation looping="1">zombie_topdown_tank.png
+    <Frame sx="1902" sy="784" sw="1987" sh="910" cx="25" cy="37" cw="68" ch="83" px="46" py="63" rx="46" ry="63" duration="0.25">NONE</Frame>
+    <Frame sx="2081" sy="777" sw="2173" sh="900" cx="27" cy="46" cw="76" ch="89" px="52" py="70" rx="52" ry="70" duration="0.25">NONE</Frame>
+    <Frame sx="2269" sy="776" sw="2354" sh="918" cx="18" cy="47" cw="69" ch="90" px="44" py="71" rx="44" ry="71" duration="0.25">NONE</Frame>
+    <Frame sx="2445" sy="779" sw="2537" sh="918" cx="27" cy="45" cw="72" ch="88" px="50" py="68" rx="50" ry="68" duration="0.25">NONE</Frame>
+    <Frame sx="2633" sy="780" sw="2717" sh="901" cx="18" cy="43" cw="67" ch="85" px="45" py="67" rx="45" ry="67" duration="0.25">NONE</Frame>
+    <Frame sx="2813" sy="777" sw="2901" sh="913" cx="21" cy="48" cw="68" ch="92" px="45" py="70" rx="45" ry="70" duration="0.25">NONE</Frame>
+    <Frame sx="2995" sy="782" sw="3082" sh="911" cx="19" cy="38" cw="66" ch="80" px="45" py="65" rx="45" ry="65" duration="0.25">NONE</Frame>
+    <Frame sx="3176" sy="787" sw="3264" sh="918" cx="25" cy="34" cw="69" ch="86" px="47" py="60" rx="47" ry="60" duration="0.25">NONE</Frame>
+    <Sheet path="C:\Users\fullsail\Desktop\Structure_of_Game_Production_I_September_2014\ProjectRepo2\repo7\zombiestrike\resource\graphics\zombie_topdown_tank.png" />
+  </Animation>
+</Animations>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Animations>
+  <Animation looping="1">zombie_topdown_runner.png
+    <Frame sx="534" sy="378" sw="624" sh="489" cx="27" cy="39" cw="61" ch="83" px="44" py="55" rx="44" ry="55" duration="0.05">NONE</Frame>
+    <Frame sx="668" sy="385" sw="738" sh="477" cx="19" cy="33" cw="53" ch="69" px="39" py="48" rx="39" ry="48" duration="0.05">NONE</Frame>
+    <Frame sx="787" sy="382" sw="872" sh="490" cx="30" cy="30" cw="62" ch="72" px="48" py="51" rx="48" ry="51" duration="0.05">NONE</Frame>
+    <Frame sx="919" sy="387" sw="999" sh="495" cx="22" cy="26" cw="62" ch="64" px="43" py="46" rx="43" ry="46" duration="0.05">NONE</Frame>
+    <Frame sx="1040" sy="384" sw="1131" sh="482" cx="29" cy="35" cw="67" ch="68" px="50" py="49" rx="50" ry="49" duration="0.05">NONE</Frame>
+    <Frame sx="1170" sy="381" sw="1260" sh="490" cx="28" cy="32" cw="65" ch="66" px="47" py="52" rx="47" ry="52" duration="0.05">NONE</Frame>
+    <Frame sx="1292" sy="382" sw="1390" sh="489" cx="33" cy="34" cw="72" ch="67" px="53" py="51" rx="53" ry="51" duration="0.05">NONE</Frame>
+    <Frame sx="1423" sy="386" sw="1513" sh="497" cx="33" cy="30" cw="67" ch="66" px="50" py="47" rx="50" ry="47" duration="0.05">NONE</Frame>
+    <Sheet path="C:\Users\fullsail\Desktop\Structure_of_Game_Production_I_September_2014\ProjectRepo2\repo6\zombiestrike\resource\graphics\zombie_topdown_runner.png" />
+  </Animation>
+</Animations>

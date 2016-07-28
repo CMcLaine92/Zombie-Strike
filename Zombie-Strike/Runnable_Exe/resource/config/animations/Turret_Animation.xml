@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Animations>
+  <Animation looping="0">0908-Robots2.png<Frame sx="251" sy="0" sw="320" sh="122" cx="0" cy="0" cw="0" ch="0" px="32" py="88" rx="32" ry="88" duration="0.25">NONE</Frame><Sheet path="C:\Users\fullsail\Desktop\Structure_of_Game_Production_I_September_2014\ProjectRepo2\starter_point\Code\resource\graphics\0908-Robots2.png" /></Animation>
+</Animations>
