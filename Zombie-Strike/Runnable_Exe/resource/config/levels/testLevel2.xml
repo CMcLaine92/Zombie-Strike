@@ -1,0 +1,1054 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Level>C:\Users\fullsail\Desktop\ZombieStrike\resource\graphics\tset.png
+	<world_info width="32" height="32" worldWidth="30" worldHeight="30" tileSheetWidth="8" tileSheetHeight="14">C:\Users\fullsail\Desktop\ZombieStrike\resource\graphics\tset.png</world_info>
+<player_info id="0" posX="15" posY="23" numEvents="0" numWaypoints="0" numEnemies="0" sRectleft="0" sRecttop="0" sRectwidth="32" sRectheight="32">PSpwn</player_info>
+<tile_list>
+		<tile_info rposx="192" rposy="128" posX="0" posY="0" />
+		<tile_info rposx="192" rposy="128" posX="32" posY="0" />
+		<tile_info rposx="192" rposy="128" posX="64" posY="0" />
+		<tile_info rposx="192" rposy="128" posX="96" posY="0" />
+		<tile_info rposx="192" rposy="128" posX="128" posY="0" />
+		<tile_info rposx="192" rposy="128" posX="160" posY="0" />
+		<tile_info rposx="192" rposy="128" posX="192" posY="0" />
+		<tile_info rposx="192" rposy="128" posX="224" posY="0" />
+		<tile_info rposx="192" rposy="128" posX="256" posY="0" />
+		<tile_info rposx="192" rposy="128" posX="288" posY="0" />
+		<tile_info rposx="192" rposy="128" posX="320" posY="0" />
+		<tile_info rposx="192" rposy="128" posX="352" posY="0" />
+		<tile_info rposx="192" rposy="128" posX="384" posY="0" />
+		<tile_info rposx="192" rposy="128" posX="416" posY="0" />
+		<tile_info rposx="192" rposy="128" posX="448" posY="0" />
+		<tile_info rposx="192" rposy="128" posX="480" posY="0" />
+		<tile_info rposx="192" rposy="128" posX="512" posY="0" />
+		<tile_info rposx="192" rposy="128" posX="544" posY="0" />
+		<tile_info rposx="192" rposy="128" posX="576" posY="0" />
+		<tile_info rposx="192" rposy="128" posX="608" posY="0" />
+		<tile_info rposx="192" rposy="128" posX="640" posY="0" />
+		<tile_info rposx="192" rposy="128" posX="672" posY="0" />
+		<tile_info rposx="192" rposy="128" posX="704" posY="0" />
+		<tile_info rposx="192" rposy="128" posX="736" posY="0" />
+		<tile_info rposx="192" rposy="128" posX="768" posY="0" />
+		<tile_info rposx="192" rposy="128" posX="800" posY="0" />
+		<tile_info rposx="192" rposy="128" posX="832" posY="0" />
+		<tile_info rposx="192" rposy="128" posX="864" posY="0" />
+		<tile_info rposx="192" rposy="128" posX="896" posY="0" />
+		<tile_info rposx="192" rposy="128" posX="928" posY="0" />
+		<tile_info rposx="192" rposy="128" posX="0" posY="32" />
+		<tile_info rposx="192" rposy="128" posX="32" posY="32" />
+		<tile_info rposx="192" rposy="128" posX="64" posY="32" />
+		<tile_info rposx="192" rposy="128" posX="96" posY="32" />
+		<tile_info rposx="192" rposy="128" posX="128" posY="32" />
+		<tile_info rposx="192" rposy="128" posX="160" posY="32" />
+		<tile_info rposx="192" rposy="128" posX="192" posY="32" />
+		<tile_info rposx="192" rposy="128" posX="224" posY="32" />
+		<tile_info rposx="192" rposy="128" posX="256" posY="32" />
+		<tile_info rposx="192" rposy="128" posX="288" posY="32" />
+		<tile_info rposx="192" rposy="128" posX="320" posY="32" />
+		<tile_info rposx="192" rposy="128" posX="352" posY="32" />
+		<tile_info rposx="192" rposy="128" posX="384" posY="32" />
+		<tile_info rposx="192" rposy="128" posX="416" posY="32" />
+		<tile_info rposx="192" rposy="128" posX="448" posY="32" />
+		<tile_info rposx="192" rposy="128" posX="480" posY="32" />
+		<tile_info rposx="192" rposy="128" posX="512" posY="32" />
+		<tile_info rposx="192" rposy="128" posX="544" posY="32" />
+		<tile_info rposx="192" rposy="128" posX="576" posY="32" />
+		<tile_info rposx="192" rposy="128" posX="608" posY="32" />
+		<tile_info rposx="192" rposy="128" posX="640" posY="32" />
+		<tile_info rposx="192" rposy="128" posX="672" posY="32" />
+		<tile_info rposx="192" rposy="128" posX="704" posY="32" />
+		<tile_info rposx="192" rposy="128" posX="736" posY="32" />
+		<tile_info rposx="192" rposy="128" posX="768" posY="32" />
+		<tile_info rposx="192" rposy="128" posX="800" posY="32" />
+		<tile_info rposx="192" rposy="128" posX="832" posY="32" />
+		<tile_info rposx="192" rposy="128" posX="864" posY="32" />
+		<tile_info rposx="192" rposy="128" posX="896" posY="32" />
+		<tile_info rposx="192" rposy="128" posX="928" posY="32" />
+		<tile_info rposx="192" rposy="128" posX="0" posY="64" />
+		<tile_info rposx="192" rposy="128" posX="32" posY="64" />
+		<tile_info rposx="192" rposy="128" posX="64" posY="64" />
+		<tile_info rposx="192" rposy="128" posX="96" posY="64" />
+		<tile_info rposx="192" rposy="128" posX="128" posY="64" />
+		<tile_info rposx="192" rposy="128" posX="160" posY="64" />
+		<tile_info rposx="192" rposy="128" posX="192" posY="64" />
+		<tile_info rposx="192" rposy="128" posX="224" posY="64" />
+		<tile_info rposx="192" rposy="128" posX="256" posY="64" />
+		<tile_info rposx="192" rposy="128" posX="288" posY="64" />
+		<tile_info rposx="192" rposy="128" posX="320" posY="64" />
+		<tile_info rposx="192" rposy="128" posX="352" posY="64" />
+		<tile_info rposx="192" rposy="128" posX="384" posY="64" />
+		<tile_info rposx="192" rposy="128" posX="416" posY="64" />
+		<tile_info rposx="192" rposy="128" posX="448" posY="64" />
+		<tile_info rposx="192" rposy="128" posX="480" posY="64" />
+		<tile_info rposx="192" rposy="128" posX="512" posY="64" />
+		<tile_info rposx="192" rposy="128" posX="544" posY="64" />
+		<tile_info rposx="192" rposy="128" posX="576" posY="64" />
+		<tile_info rposx="192" rposy="128" posX="608" posY="64" />
+		<tile_info rposx="192" rposy="128" posX="640" posY="64" />
+		<tile_info rposx="192" rposy="128" posX="672" posY="64" />
+		<tile_info rposx="192" rposy="128" posX="704" posY="64" />
+		<tile_info rposx="192" rposy="128" posX="736" posY="64" />
+		<tile_info rposx="192" rposy="128" posX="768" posY="64" />
+		<tile_info rposx="192" rposy="128" posX="800" posY="64" />
+		<tile_info rposx="192" rposy="128" posX="832" posY="64" />
+		<tile_info rposx="192" rposy="128" posX="864" posY="64" />
+		<tile_info rposx="192" rposy="128" posX="896" posY="64" />
+		<tile_info rposx="192" rposy="128" posX="928" posY="64" />
+		<tile_info rposx="192" rposy="128" posX="0" posY="96" />
+		<tile_info rposx="192" rposy="128" posX="32" posY="96" />
+		<tile_info rposx="192" rposy="128" posX="64" posY="96" />
+		<tile_info rposx="192" rposy="128" posX="96" posY="96" />
+		<tile_info rposx="192" rposy="128" posX="128" posY="96" />
+		<tile_info rposx="192" rposy="128" posX="160" posY="96" />
+		<tile_info rposx="192" rposy="128" posX="192" posY="96" />
+		<tile_info rposx="192" rposy="128" posX="224" posY="96" />
+		<tile_info rposx="192" rposy="128" posX="256" posY="96" />
+		<tile_info rposx="192" rposy="128" posX="288" posY="96" />
+		<tile_info rposx="192" rposy="128" posX="320" posY="96" />
+		<tile_info rposx="192" rposy="128" posX="352" posY="96" />
+		<tile_info rposx="192" rposy="128" posX="384" posY="96" />
+		<tile_info rposx="192" rposy="128" posX="416" posY="96" />
+		<tile_info rposx="192" rposy="128" posX="448" posY="96" />
+		<tile_info rposx="192" rposy="128" posX="480" posY="96" />
+		<tile_info rposx="192" rposy="128" posX="512" posY="96" />
+		<tile_info rposx="192" rposy="128" posX="544" posY="96" />
+		<tile_info rposx="192" rposy="128" posX="576" posY="96" />
+		<tile_info rposx="192" rposy="128" posX="608" posY="96" />
+		<tile_info rposx="192" rposy="128" posX="640" posY="96" />
+		<tile_info rposx="192" rposy="128" posX="672" posY="96" />
+		<tile_info rposx="192" rposy="128" posX="704" posY="96" />
+		<tile_info rposx="192" rposy="128" posX="736" posY="96" />
+		<tile_info rposx="192" rposy="128" posX="768" posY="96" />
+		<tile_info rposx="192" rposy="128" posX="800" posY="96" />
+		<tile_info rposx="192" rposy="128" posX="832" posY="96" />
+		<tile_info rposx="192" rposy="128" posX="864" posY="96" />
+		<tile_info rposx="192" rposy="128" posX="896" posY="96" />
+		<tile_info rposx="192" rposy="128" posX="928" posY="96" />
+		<tile_info rposx="192" rposy="128" posX="0" posY="128" />
+		<tile_info rposx="192" rposy="128" posX="32" posY="128" />
+		<tile_info rposx="192" rposy="128" posX="64" posY="128" />
+		<tile_info rposx="192" rposy="128" posX="96" posY="128" />
+		<tile_info rposx="192" rposy="128" posX="128" posY="128" />
+		<tile_info rposx="192" rposy="128" posX="160" posY="128" />
+		<tile_info rposx="192" rposy="128" posX="192" posY="128" />
+		<tile_info rposx="192" rposy="128" posX="224" posY="128" />
+		<tile_info rposx="192" rposy="128" posX="256" posY="128" />
+		<tile_info rposx="192" rposy="128" posX="288" posY="128" />
+		<tile_info rposx="192" rposy="128" posX="320" posY="128" />
+		<tile_info rposx="192" rposy="128" posX="352" posY="128" />
+		<tile_info rposx="192" rposy="128" posX="384" posY="128" />
+		<tile_info rposx="192" rposy="128" posX="416" posY="128" />
+		<tile_info rposx="192" rposy="128" posX="448" posY="128" />
+		<tile_info rposx="192" rposy="128" posX="480" posY="128" />
+		<tile_info rposx="192" rposy="128" posX="512" posY="128" />
+		<tile_info rposx="192" rposy="128" posX="544" posY="128" />
+		<tile_info rposx="192" rposy="128" posX="576" posY="128" />
+		<tile_info rposx="192" rposy="128" posX="608" posY="128" />
+		<tile_info rposx="192" rposy="128" posX="640" posY="128" />
+		<tile_info rposx="192" rposy="128" posX="672" posY="128" />
+		<tile_info rposx="192" rposy="128" posX="704" posY="128" />
+		<tile_info rposx="192" rposy="128" posX="736" posY="128" />
+		<tile_info rposx="192" rposy="128" posX="768" posY="128" />
+		<tile_info rposx="192" rposy="128" posX="800" posY="128" />
+		<tile_info rposx="192" rposy="128" posX="832" posY="128" />
+		<tile_info rposx="192" rposy="128" posX="864" posY="128" />
+		<tile_info rposx="192" rposy="128" posX="896" posY="128" />
+		<tile_info rposx="192" rposy="128" posX="928" posY="128" />
+		<tile_info rposx="192" rposy="128" posX="0" posY="160" />
+		<tile_info rposx="192" rposy="128" posX="32" posY="160" />
+		<tile_info rposx="192" rposy="128" posX="64" posY="160" />
+		<tile_info rposx="192" rposy="128" posX="96" posY="160" />
+		<tile_info rposx="192" rposy="128" posX="128" posY="160" />
+		<tile_info rposx="192" rposy="128" posX="160" posY="160" />
+		<tile_info rposx="192" rposy="128" posX="192" posY="160" />
+		<tile_info rposx="192" rposy="128" posX="224" posY="160" />
+		<tile_info rposx="192" rposy="128" posX="256" posY="160" />
+		<tile_info rposx="192" rposy="128" posX="288" posY="160" />
+		<tile_info rposx="192" rposy="128" posX="320" posY="160" />
+		<tile_info rposx="192" rposy="128" posX="352" posY="160" />
+		<tile_info rposx="192" rposy="128" posX="384" posY="160" />
+		<tile_info rposx="192" rposy="128" posX="416" posY="160" />
+		<tile_info rposx="192" rposy="128" posX="448" posY="160" />
+		<tile_info rposx="192" rposy="128" posX="480" posY="160" />
+		<tile_info rposx="192" rposy="128" posX="512" posY="160" />
+		<tile_info rposx="192" rposy="128" posX="544" posY="160" />
+		<tile_info rposx="192" rposy="128" posX="576" posY="160" />
+		<tile_info rposx="192" rposy="128" posX="608" posY="160" />
+		<tile_info rposx="192" rposy="128" posX="640" posY="160" />
+		<tile_info rposx="192" rposy="128" posX="672" posY="160" />
+		<tile_info rposx="192" rposy="128" posX="704" posY="160" />
+		<tile_info rposx="192" rposy="128" posX="736" posY="160" />
+		<tile_info rposx="192" rposy="128" posX="768" posY="160" />
+		<tile_info rposx="192" rposy="128" posX="800" posY="160" />
+		<tile_info rposx="192" rposy="128" posX="832" posY="160" />
+		<tile_info rposx="192" rposy="128" posX="864" posY="160" />
+		<tile_info rposx="192" rposy="128" posX="896" posY="160" />
+		<tile_info rposx="192" rposy="128" posX="928" posY="160" />
+		<tile_info rposx="192" rposy="128" posX="0" posY="192" />
+		<tile_info rposx="192" rposy="128" posX="32" posY="192" />
+		<tile_info rposx="192" rposy="128" posX="64" posY="192" />
+		<tile_info rposx="192" rposy="128" posX="96" posY="192" />
+		<tile_info rposx="192" rposy="128" posX="128" posY="192" />
+		<tile_info rposx="192" rposy="128" posX="160" posY="192" />
+		<tile_info rposx="192" rposy="128" posX="192" posY="192" />
+		<tile_info rposx="192" rposy="128" posX="224" posY="192" />
+		<tile_info rposx="192" rposy="128" posX="256" posY="192" />
+		<tile_info rposx="192" rposy="128" posX="288" posY="192" />
+		<tile_info rposx="192" rposy="128" posX="320" posY="192" />
+		<tile_info rposx="192" rposy="128" posX="352" posY="192" />
+		<tile_info rposx="192" rposy="128" posX="384" posY="192" />
+		<tile_info rposx="192" rposy="128" posX="416" posY="192" />
+		<tile_info rposx="192" rposy="128" posX="448" posY="192" />
+		<tile_info rposx="192" rposy="128" posX="480" posY="192" />
+		<tile_info rposx="192" rposy="128" posX="512" posY="192" />
+		<tile_info rposx="192" rposy="128" posX="544" posY="192" />
+		<tile_info rposx="192" rposy="128" posX="576" posY="192" />
+		<tile_info rposx="192" rposy="128" posX="608" posY="192" />
+		<tile_info rposx="192" rposy="128" posX="640" posY="192" />
+		<tile_info rposx="192" rposy="128" posX="672" posY="192" />
+		<tile_info rposx="192" rposy="128" posX="704" posY="192" />
+		<tile_info rposx="192" rposy="128" posX="736" posY="192" />
+		<tile_info rposx="192" rposy="128" posX="768" posY="192" />
+		<tile_info rposx="192" rposy="128" posX="800" posY="192" />
+		<tile_info rposx="192" rposy="128" posX="832" posY="192" />
+		<tile_info rposx="192" rposy="128" posX="864" posY="192" />
+		<tile_info rposx="192" rposy="128" posX="896" posY="192" />
+		<tile_info rposx="192" rposy="128" posX="928" posY="192" />
+		<tile_info rposx="192" rposy="128" posX="0" posY="224" />
+		<tile_info rposx="192" rposy="128" posX="32" posY="224" />
+		<tile_info rposx="192" rposy="128" posX="64" posY="224" />
+		<tile_info rposx="192" rposy="128" posX="96" posY="224" />
+		<tile_info rposx="192" rposy="128" posX="128" posY="224" />
+		<tile_info rposx="192" rposy="128" posX="160" posY="224" />
+		<tile_info rposx="192" rposy="128" posX="192" posY="224" />
+		<tile_info rposx="192" rposy="128" posX="224" posY="224" />
+		<tile_info rposx="192" rposy="128" posX="256" posY="224" />
+		<tile_info rposx="192" rposy="128" posX="288" posY="224" />
+		<tile_info rposx="192" rposy="128" posX="320" posY="224" />
+		<tile_info rposx="192" rposy="128" posX="352" posY="224" />
+		<tile_info rposx="192" rposy="128" posX="384" posY="224" />
+		<tile_info rposx="192" rposy="128" posX="416" posY="224" />
+		<tile_info rposx="192" rposy="128" posX="448" posY="224" />
+		<tile_info rposx="192" rposy="128" posX="480" posY="224" />
+		<tile_info rposx="192" rposy="128" posX="512" posY="224" />
+		<tile_info rposx="192" rposy="128" posX="544" posY="224" />
+		<tile_info rposx="192" rposy="128" posX="576" posY="224" />
+		<tile_info rposx="192" rposy="128" posX="608" posY="224" />
+		<tile_info rposx="192" rposy="128" posX="640" posY="224" />
+		<tile_info rposx="192" rposy="128" posX="672" posY="224" />
+		<tile_info rposx="192" rposy="128" posX="704" posY="224" />
+		<tile_info rposx="192" rposy="128" posX="736" posY="224" />
+		<tile_info rposx="192" rposy="128" posX="768" posY="224" />
+		<tile_info rposx="192" rposy="128" posX="800" posY="224" />
+		<tile_info rposx="192" rposy="128" posX="832" posY="224" />
+		<tile_info rposx="192" rposy="128" posX="864" posY="224" />
+		<tile_info rposx="192" rposy="128" posX="896" posY="224" />
+		<tile_info rposx="192" rposy="128" posX="928" posY="224" />
+		<tile_info rposx="192" rposy="128" posX="0" posY="256" />
+		<tile_info rposx="192" rposy="128" posX="32" posY="256" />
+		<tile_info rposx="192" rposy="128" posX="64" posY="256" />
+		<tile_info rposx="192" rposy="128" posX="96" posY="256" />
+		<tile_info rposx="192" rposy="128" posX="128" posY="256" />
+		<tile_info rposx="192" rposy="128" posX="160" posY="256" />
+		<tile_info rposx="192" rposy="128" posX="192" posY="256" />
+		<tile_info rposx="192" rposy="128" posX="224" posY="256" />
+		<tile_info rposx="192" rposy="128" posX="256" posY="256" />
+		<tile_info rposx="192" rposy="128" posX="288" posY="256" />
+		<tile_info rposx="192" rposy="128" posX="320" posY="256" />
+		<tile_info rposx="192" rposy="128" posX="352" posY="256" />
+		<tile_info rposx="192" rposy="128" posX="384" posY="256" />
+		<tile_info rposx="192" rposy="128" posX="416" posY="256" />
+		<tile_info rposx="192" rposy="128" posX="448" posY="256" />
+		<tile_info rposx="192" rposy="128" posX="480" posY="256" />
+		<tile_info rposx="192" rposy="128" posX="512" posY="256" />
+		<tile_info rposx="192" rposy="128" posX="544" posY="256" />
+		<tile_info rposx="192" rposy="128" posX="576" posY="256" />
+		<tile_info rposx="192" rposy="128" posX="608" posY="256" />
+		<tile_info rposx="192" rposy="128" posX="640" posY="256" />
+		<tile_info rposx="192" rposy="128" posX="672" posY="256" />
+		<tile_info rposx="192" rposy="128" posX="704" posY="256" />
+		<tile_info rposx="192" rposy="128" posX="736" posY="256" />
+		<tile_info rposx="192" rposy="128" posX="768" posY="256" />
+		<tile_info rposx="192" rposy="128" posX="800" posY="256" />
+		<tile_info rposx="192" rposy="128" posX="832" posY="256" />
+		<tile_info rposx="192" rposy="128" posX="864" posY="256" />
+		<tile_info rposx="192" rposy="128" posX="896" posY="256" />
+		<tile_info rposx="192" rposy="128" posX="928" posY="256" />
+		<tile_info rposx="192" rposy="128" posX="0" posY="288" />
+		<tile_info rposx="192" rposy="128" posX="32" posY="288" />
+		<tile_info rposx="192" rposy="128" posX="64" posY="288" />
+		<tile_info rposx="192" rposy="128" posX="96" posY="288" />
+		<tile_info rposx="192" rposy="128" posX="128" posY="288" />
+		<tile_info rposx="192" rposy="128" posX="160" posY="288" />
+		<tile_info rposx="192" rposy="128" posX="192" posY="288" />
+		<tile_info rposx="192" rposy="128" posX="224" posY="288" />
+		<tile_info rposx="192" rposy="128" posX="256" posY="288" />
+		<tile_info rposx="192" rposy="128" posX="288" posY="288" />
+		<tile_info rposx="192" rposy="128" posX="320" posY="288" />
+		<tile_info rposx="192" rposy="128" posX="352" posY="288" />
+		<tile_info rposx="192" rposy="128" posX="384" posY="288" />
+		<tile_info rposx="192" rposy="128" posX="416" posY="288" />
+		<tile_info rposx="192" rposy="128" posX="448" posY="288" />
+		<tile_info rposx="192" rposy="128" posX="480" posY="288" />
+		<tile_info rposx="192" rposy="128" posX="512" posY="288" />
+		<tile_info rposx="192" rposy="128" posX="544" posY="288" />
+		<tile_info rposx="192" rposy="128" posX="576" posY="288" />
+		<tile_info rposx="192" rposy="128" posX="608" posY="288" />
+		<tile_info rposx="192" rposy="128" posX="640" posY="288" />
+		<tile_info rposx="192" rposy="128" posX="672" posY="288" />
+		<tile_info rposx="192" rposy="128" posX="704" posY="288" />
+		<tile_info rposx="192" rposy="128" posX="736" posY="288" />
+		<tile_info rposx="192" rposy="128" posX="768" posY="288" />
+		<tile_info rposx="192" rposy="128" posX="800" posY="288" />
+		<tile_info rposx="192" rposy="128" posX="832" posY="288" />
+		<tile_info rposx="192" rposy="128" posX="864" posY="288" />
+		<tile_info rposx="192" rposy="128" posX="896" posY="288" />
+		<tile_info rposx="192" rposy="128" posX="928" posY="288" />
+		<tile_info rposx="192" rposy="128" posX="0" posY="320" />
+		<tile_info rposx="192" rposy="128" posX="32" posY="320" />
+		<tile_info rposx="192" rposy="128" posX="64" posY="320" />
+		<tile_info rposx="192" rposy="128" posX="96" posY="320" />
+		<tile_info rposx="192" rposy="128" posX="128" posY="320" />
+		<tile_info rposx="192" rposy="128" posX="160" posY="320" />
+		<tile_info rposx="192" rposy="128" posX="192" posY="320" />
+		<tile_info rposx="192" rposy="128" posX="224" posY="320" />
+		<tile_info rposx="192" rposy="128" posX="256" posY="320" />
+		<tile_info rposx="192" rposy="128" posX="288" posY="320" />
+		<tile_info rposx="192" rposy="128" posX="320" posY="320" />
+		<tile_info rposx="192" rposy="128" posX="352" posY="320" />
+		<tile_info rposx="192" rposy="128" posX="384" posY="320" />
+		<tile_info rposx="192" rposy="128" posX="416" posY="320" />
+		<tile_info rposx="192" rposy="128" posX="448" posY="320" />
+		<tile_info rposx="192" rposy="128" posX="480" posY="320" />
+		<tile_info rposx="192" rposy="128" posX="512" posY="320" />
+		<tile_info rposx="192" rposy="128" posX="544" posY="320" />
+		<tile_info rposx="192" rposy="128" posX="576" posY="320" />
+		<tile_info rposx="192" rposy="128" posX="608" posY="320" />
+		<tile_info rposx="192" rposy="128" posX="640" posY="320" />
+		<tile_info rposx="192" rposy="128" posX="672" posY="320" />
+		<tile_info rposx="192" rposy="128" posX="704" posY="320" />
+		<tile_info rposx="192" rposy="128" posX="736" posY="320" />
+		<tile_info rposx="192" rposy="128" posX="768" posY="320" />
+		<tile_info rposx="192" rposy="128" posX="800" posY="320" />
+		<tile_info rposx="192" rposy="128" posX="832" posY="320" />
+		<tile_info rposx="192" rposy="128" posX="864" posY="320" />
+		<tile_info rposx="192" rposy="128" posX="896" posY="320" />
+		<tile_info rposx="192" rposy="128" posX="928" posY="320" />
+		<tile_info rposx="192" rposy="128" posX="0" posY="352" />
+		<tile_info rposx="192" rposy="128" posX="32" posY="352" />
+		<tile_info rposx="192" rposy="128" posX="64" posY="352" />
+		<tile_info rposx="192" rposy="128" posX="96" posY="352" />
+		<tile_info rposx="192" rposy="128" posX="128" posY="352" />
+		<tile_info rposx="192" rposy="128" posX="160" posY="352" />
+		<tile_info rposx="192" rposy="128" posX="192" posY="352" />
+		<tile_info rposx="192" rposy="128" posX="224" posY="352" />
+		<tile_info rposx="192" rposy="128" posX="256" posY="352" />
+		<tile_info rposx="192" rposy="128" posX="288" posY="352" />
+		<tile_info rposx="192" rposy="128" posX="320" posY="352" />
+		<tile_info rposx="192" rposy="128" posX="352" posY="352" />
+		<tile_info rposx="192" rposy="128" posX="384" posY="352" />
+		<tile_info rposx="192" rposy="128" posX="416" posY="352" />
+		<tile_info rposx="192" rposy="128" posX="448" posY="352" />
+		<tile_info rposx="192" rposy="128" posX="480" posY="352" />
+		<tile_info rposx="192" rposy="128" posX="512" posY="352" />
+		<tile_info rposx="192" rposy="128" posX="544" posY="352" />
+		<tile_info rposx="192" rposy="128" posX="576" posY="352" />
+		<tile_info rposx="192" rposy="128" posX="608" posY="352" />
+		<tile_info rposx="192" rposy="128" posX="640" posY="352" />
+		<tile_info rposx="192" rposy="128" posX="672" posY="352" />
+		<tile_info rposx="192" rposy="128" posX="704" posY="352" />
+		<tile_info rposx="192" rposy="128" posX="736" posY="352" />
+		<tile_info rposx="192" rposy="128" posX="768" posY="352" />
+		<tile_info rposx="192" rposy="128" posX="800" posY="352" />
+		<tile_info rposx="192" rposy="128" posX="832" posY="352" />
+		<tile_info rposx="192" rposy="128" posX="864" posY="352" />
+		<tile_info rposx="192" rposy="128" posX="896" posY="352" />
+		<tile_info rposx="192" rposy="128" posX="928" posY="352" />
+		<tile_info rposx="192" rposy="128" posX="0" posY="384" />
+		<tile_info rposx="192" rposy="128" posX="32" posY="384" />
+		<tile_info rposx="192" rposy="128" posX="64" posY="384" />
+		<tile_info rposx="192" rposy="128" posX="96" posY="384" />
+		<tile_info rposx="192" rposy="128" posX="128" posY="384" />
+		<tile_info rposx="192" rposy="128" posX="160" posY="384" />
+		<tile_info rposx="192" rposy="128" posX="192" posY="384" />
+		<tile_info rposx="192" rposy="128" posX="224" posY="384" />
+		<tile_info rposx="192" rposy="128" posX="256" posY="384" />
+		<tile_info rposx="192" rposy="128" posX="288" posY="384" />
+		<tile_info rposx="192" rposy="128" posX="320" posY="384" />
+		<tile_info rposx="192" rposy="128" posX="352" posY="384" />
+		<tile_info rposx="192" rposy="128" posX="384" posY="384" />
+		<tile_info rposx="192" rposy="128" posX="416" posY="384" />
+		<tile_info rposx="192" rposy="128" posX="448" posY="384" />
+		<tile_info rposx="192" rposy="128" posX="480" posY="384" />
+		<tile_info rposx="192" rposy="128" posX="512" posY="384" />
+		<tile_info rposx="192" rposy="128" posX="544" posY="384" />
+		<tile_info rposx="192" rposy="128" posX="576" posY="384" />
+		<tile_info rposx="192" rposy="128" posX="608" posY="384" />
+		<tile_info rposx="192" rposy="128" posX="640" posY="384" />
+		<tile_info rposx="192" rposy="128" posX="672" posY="384" />
+		<tile_info rposx="192" rposy="128" posX="704" posY="384" />
+		<tile_info rposx="192" rposy="128" posX="736" posY="384" />
+		<tile_info rposx="192" rposy="128" posX="768" posY="384" />
+		<tile_info rposx="192" rposy="128" posX="800" posY="384" />
+		<tile_info rposx="192" rposy="128" posX="832" posY="384" />
+		<tile_info rposx="192" rposy="128" posX="864" posY="384" />
+		<tile_info rposx="192" rposy="128" posX="896" posY="384" />
+		<tile_info rposx="192" rposy="128" posX="928" posY="384" />
+		<tile_info rposx="192" rposy="128" posX="0" posY="416" />
+		<tile_info rposx="192" rposy="128" posX="32" posY="416" />
+		<tile_info rposx="192" rposy="128" posX="64" posY="416" />
+		<tile_info rposx="192" rposy="128" posX="96" posY="416" />
+		<tile_info rposx="192" rposy="128" posX="128" posY="416" />
+		<tile_info rposx="192" rposy="128" posX="160" posY="416" />
+		<tile_info rposx="192" rposy="128" posX="192" posY="416" />
+		<tile_info rposx="192" rposy="128" posX="224" posY="416" />
+		<tile_info rposx="192" rposy="128" posX="256" posY="416" />
+		<tile_info rposx="192" rposy="128" posX="288" posY="416" />
+		<tile_info rposx="192" rposy="128" posX="320" posY="416" />
+		<tile_info rposx="192" rposy="128" posX="352" posY="416" />
+		<tile_info rposx="192" rposy="128" posX="384" posY="416" />
+		<tile_info rposx="192" rposy="128" posX="416" posY="416" />
+		<tile_info rposx="192" rposy="128" posX="448" posY="416" />
+		<tile_info rposx="192" rposy="128" posX="480" posY="416" />
+		<tile_info rposx="192" rposy="128" posX="512" posY="416" />
+		<tile_info rposx="192" rposy="128" posX="544" posY="416" />
+		<tile_info rposx="192" rposy="128" posX="576" posY="416" />
+		<tile_info rposx="192" rposy="128" posX="608" posY="416" />
+		<tile_info rposx="192" rposy="128" posX="640" posY="416" />
+		<tile_info rposx="192" rposy="128" posX="672" posY="416" />
+		<tile_info rposx="192" rposy="128" posX="704" posY="416" />
+		<tile_info rposx="192" rposy="128" posX="736" posY="416" />
+		<tile_info rposx="192" rposy="128" posX="768" posY="416" />
+		<tile_info rposx="192" rposy="128" posX="800" posY="416" />
+		<tile_info rposx="192" rposy="128" posX="832" posY="416" />
+		<tile_info rposx="192" rposy="128" posX="864" posY="416" />
+		<tile_info rposx="192" rposy="128" posX="896" posY="416" />
+		<tile_info rposx="192" rposy="128" posX="928" posY="416" />
+		<tile_info rposx="192" rposy="128" posX="0" posY="448" />
+		<tile_info rposx="192" rposy="128" posX="32" posY="448" />
+		<tile_info rposx="192" rposy="128" posX="64" posY="448" />
+		<tile_info rposx="192" rposy="128" posX="96" posY="448" />
+		<tile_info rposx="192" rposy="128" posX="128" posY="448" />
+		<tile_info rposx="192" rposy="128" posX="160" posY="448" />
+		<tile_info rposx="192" rposy="128" posX="192" posY="448" />
+		<tile_info rposx="192" rposy="128" posX="224" posY="448" />
+		<tile_info rposx="192" rposy="128" posX="256" posY="448" />
+		<tile_info rposx="192" rposy="128" posX="288" posY="448" />
+		<tile_info rposx="192" rposy="128" posX="320" posY="448" />
+		<tile_info rposx="192" rposy="128" posX="352" posY="448" />
+		<tile_info rposx="192" rposy="128" posX="384" posY="448" />
+		<tile_info rposx="192" rposy="128" posX="416" posY="448" />
+		<tile_info rposx="192" rposy="128" posX="448" posY="448" />
+		<tile_info rposx="192" rposy="128" posX="480" posY="448" />
+		<tile_info rposx="192" rposy="128" posX="512" posY="448" />
+		<tile_info rposx="192" rposy="128" posX="544" posY="448" />
+		<tile_info rposx="192" rposy="128" posX="576" posY="448" />
+		<tile_info rposx="192" rposy="128" posX="608" posY="448" />
+		<tile_info rposx="192" rposy="128" posX="640" posY="448" />
+		<tile_info rposx="192" rposy="128" posX="672" posY="448" />
+		<tile_info rposx="192" rposy="128" posX="704" posY="448" />
+		<tile_info rposx="192" rposy="128" posX="736" posY="448" />
+		<tile_info rposx="192" rposy="128" posX="768" posY="448" />
+		<tile_info rposx="192" rposy="128" posX="800" posY="448" />
+		<tile_info rposx="192" rposy="128" posX="832" posY="448" />
+		<tile_info rposx="192" rposy="128" posX="864" posY="448" />
+		<tile_info rposx="192" rposy="128" posX="896" posY="448" />
+		<tile_info rposx="192" rposy="128" posX="928" posY="448" />
+		<tile_info rposx="192" rposy="128" posX="0" posY="480" />
+		<tile_info rposx="192" rposy="128" posX="32" posY="480" />
+		<tile_info rposx="192" rposy="128" posX="64" posY="480" />
+		<tile_info rposx="192" rposy="128" posX="96" posY="480" />
+		<tile_info rposx="192" rposy="128" posX="128" posY="480" />
+		<tile_info rposx="192" rposy="128" posX="160" posY="480" />
+		<tile_info rposx="192" rposy="128" posX="192" posY="480" />
+		<tile_info rposx="192" rposy="128" posX="224" posY="480" />
+		<tile_info rposx="192" rposy="128" posX="256" posY="480" />
+		<tile_info rposx="192" rposy="128" posX="288" posY="480" />
+		<tile_info rposx="192" rposy="128" posX="320" posY="480" />
+		<tile_info rposx="192" rposy="128" posX="352" posY="480" />
+		<tile_info rposx="192" rposy="128" posX="384" posY="480" />
+		<tile_info rposx="192" rposy="128" posX="416" posY="480" />
+		<tile_info rposx="192" rposy="128" posX="448" posY="480" />
+		<tile_info rposx="192" rposy="128" posX="480" posY="480" />
+		<tile_info rposx="192" rposy="128" posX="512" posY="480" />
+		<tile_info rposx="192" rposy="128" posX="544" posY="480" />
+		<tile_info rposx="192" rposy="128" posX="576" posY="480" />
+		<tile_info rposx="192" rposy="128" posX="608" posY="480" />
+		<tile_info rposx="192" rposy="128" posX="640" posY="480" />
+		<tile_info rposx="192" rposy="128" posX="672" posY="480" />
+		<tile_info rposx="192" rposy="128" posX="704" posY="480" />
+		<tile_info rposx="192" rposy="128" posX="736" posY="480" />
+		<tile_info rposx="192" rposy="128" posX="768" posY="480" />
+		<tile_info rposx="192" rposy="128" posX="800" posY="480" />
+		<tile_info rposx="192" rposy="128" posX="832" posY="480" />
+		<tile_info rposx="192" rposy="128" posX="864" posY="480" />
+		<tile_info rposx="192" rposy="128" posX="896" posY="480" />
+		<tile_info rposx="192" rposy="128" posX="928" posY="480" />
+		<tile_info rposx="192" rposy="128" posX="0" posY="512" />
+		<tile_info rposx="192" rposy="128" posX="32" posY="512" />
+		<tile_info rposx="192" rposy="128" posX="64" posY="512" />
+		<tile_info rposx="192" rposy="128" posX="96" posY="512" />
+		<tile_info rposx="192" rposy="128" posX="128" posY="512" />
+		<tile_info rposx="192" rposy="128" posX="160" posY="512" />
+		<tile_info rposx="192" rposy="128" posX="192" posY="512" />
+		<tile_info rposx="192" rposy="128" posX="224" posY="512" />
+		<tile_info rposx="192" rposy="128" posX="256" posY="512" />
+		<tile_info rposx="192" rposy="128" posX="288" posY="512" />
+		<tile_info rposx="192" rposy="128" posX="320" posY="512" />
+		<tile_info rposx="192" rposy="128" posX="352" posY="512" />
+		<tile_info rposx="192" rposy="128" posX="384" posY="512" />
+		<tile_info rposx="192" rposy="128" posX="416" posY="512" />
+		<tile_info rposx="192" rposy="128" posX="448" posY="512" />
+		<tile_info rposx="192" rposy="128" posX="480" posY="512" />
+		<tile_info rposx="192" rposy="128" posX="512" posY="512" />
+		<tile_info rposx="192" rposy="128" posX="544" posY="512" />
+		<tile_info rposx="192" rposy="128" posX="576" posY="512" />
+		<tile_info rposx="192" rposy="128" posX="608" posY="512" />
+		<tile_info rposx="192" rposy="128" posX="640" posY="512" />
+		<tile_info rposx="192" rposy="128" posX="672" posY="512" />
+		<tile_info rposx="192" rposy="128" posX="704" posY="512" />
+		<tile_info rposx="192" rposy="128" posX="736" posY="512" />
+		<tile_info rposx="192" rposy="128" posX="768" posY="512" />
+		<tile_info rposx="192" rposy="128" posX="800" posY="512" />
+		<tile_info rposx="192" rposy="128" posX="832" posY="512" />
+		<tile_info rposx="192" rposy="128" posX="864" posY="512" />
+		<tile_info rposx="192" rposy="128" posX="896" posY="512" />
+		<tile_info rposx="192" rposy="128" posX="928" posY="512" />
+		<tile_info rposx="192" rposy="128" posX="0" posY="544" />
+		<tile_info rposx="192" rposy="128" posX="32" posY="544" />
+		<tile_info rposx="192" rposy="128" posX="64" posY="544" />
+		<tile_info rposx="192" rposy="128" posX="96" posY="544" />
+		<tile_info rposx="192" rposy="128" posX="128" posY="544" />
+		<tile_info rposx="192" rposy="128" posX="160" posY="544" />
+		<tile_info rposx="192" rposy="128" posX="192" posY="544" />
+		<tile_info rposx="192" rposy="128" posX="224" posY="544" />
+		<tile_info rposx="192" rposy="128" posX="256" posY="544" />
+		<tile_info rposx="192" rposy="128" posX="288" posY="544" />
+		<tile_info rposx="192" rposy="128" posX="320" posY="544" />
+		<tile_info rposx="192" rposy="128" posX="352" posY="544" />
+		<tile_info rposx="192" rposy="128" posX="384" posY="544" />
+		<tile_info rposx="192" rposy="128" posX="416" posY="544" />
+		<tile_info rposx="192" rposy="128" posX="448" posY="544" />
+		<tile_info rposx="192" rposy="128" posX="480" posY="544" />
+		<tile_info rposx="192" rposy="128" posX="512" posY="544" />
+		<tile_info rposx="192" rposy="128" posX="544" posY="544" />
+		<tile_info rposx="192" rposy="128" posX="576" posY="544" />
+		<tile_info rposx="192" rposy="128" posX="608" posY="544" />
+		<tile_info rposx="192" rposy="128" posX="640" posY="544" />
+		<tile_info rposx="192" rposy="128" posX="672" posY="544" />
+		<tile_info rposx="192" rposy="128" posX="704" posY="544" />
+		<tile_info rposx="192" rposy="128" posX="736" posY="544" />
+		<tile_info rposx="192" rposy="128" posX="768" posY="544" />
+		<tile_info rposx="192" rposy="128" posX="800" posY="544" />
+		<tile_info rposx="192" rposy="128" posX="832" posY="544" />
+		<tile_info rposx="192" rposy="128" posX="864" posY="544" />
+		<tile_info rposx="192" rposy="128" posX="896" posY="544" />
+		<tile_info rposx="192" rposy="128" posX="928" posY="544" />
+		<tile_info rposx="192" rposy="128" posX="0" posY="576" />
+		<tile_info rposx="192" rposy="128" posX="32" posY="576" />
+		<tile_info rposx="192" rposy="128" posX="64" posY="576" />
+		<tile_info rposx="192" rposy="128" posX="96" posY="576" />
+		<tile_info rposx="192" rposy="128" posX="128" posY="576" />
+		<tile_info rposx="192" rposy="128" posX="160" posY="576" />
+		<tile_info rposx="192" rposy="128" posX="192" posY="576" />
+		<tile_info rposx="192" rposy="128" posX="224" posY="576" />
+		<tile_info rposx="192" rposy="128" posX="256" posY="576" />
+		<tile_info rposx="192" rposy="128" posX="288" posY="576" />
+		<tile_info rposx="192" rposy="128" posX="320" posY="576" />
+		<tile_info rposx="192" rposy="128" posX="352" posY="576" />
+		<tile_info rposx="192" rposy="128" posX="384" posY="576" />
+		<tile_info rposx="192" rposy="128" posX="416" posY="576" />
+		<tile_info rposx="192" rposy="128" posX="448" posY="576" />
+		<tile_info rposx="192" rposy="128" posX="480" posY="576" />
+		<tile_info rposx="192" rposy="128" posX="512" posY="576" />
+		<tile_info rposx="192" rposy="128" posX="544" posY="576" />
+		<tile_info rposx="192" rposy="128" posX="576" posY="576" />
+		<tile_info rposx="192" rposy="128" posX="608" posY="576" />
+		<tile_info rposx="192" rposy="128" posX="640" posY="576" />
+		<tile_info rposx="192" rposy="128" posX="672" posY="576" />
+		<tile_info rposx="192" rposy="128" posX="704" posY="576" />
+		<tile_info rposx="192" rposy="128" posX="736" posY="576" />
+		<tile_info rposx="192" rposy="128" posX="768" posY="576" />
+		<tile_info rposx="192" rposy="128" posX="800" posY="576" />
+		<tile_info rposx="192" rposy="128" posX="832" posY="576" />
+		<tile_info rposx="192" rposy="128" posX="864" posY="576" />
+		<tile_info rposx="192" rposy="128" posX="896" posY="576" />
+		<tile_info rposx="192" rposy="128" posX="928" posY="576" />
+		<tile_info rposx="192" rposy="128" posX="0" posY="608" />
+		<tile_info rposx="192" rposy="128" posX="32" posY="608" />
+		<tile_info rposx="192" rposy="128" posX="64" posY="608" />
+		<tile_info rposx="192" rposy="128" posX="96" posY="608" />
+		<tile_info rposx="192" rposy="128" posX="128" posY="608" />
+		<tile_info rposx="192" rposy="128" posX="160" posY="608" />
+		<tile_info rposx="192" rposy="128" posX="192" posY="608" />
+		<tile_info rposx="192" rposy="128" posX="224" posY="608" />
+		<tile_info rposx="192" rposy="128" posX="256" posY="608" />
+		<tile_info rposx="192" rposy="128" posX="288" posY="608" />
+		<tile_info rposx="192" rposy="128" posX="320" posY="608" />
+		<tile_info rposx="192" rposy="128" posX="352" posY="608" />
+		<tile_info rposx="192" rposy="128" posX="384" posY="608" />
+		<tile_info rposx="192" rposy="128" posX="416" posY="608" />
+		<tile_info rposx="192" rposy="128" posX="448" posY="608" />
+		<tile_info rposx="192" rposy="128" posX="480" posY="608" />
+		<tile_info rposx="192" rposy="128" posX="512" posY="608" />
+		<tile_info rposx="192" rposy="128" posX="544" posY="608" />
+		<tile_info rposx="192" rposy="128" posX="576" posY="608" />
+		<tile_info rposx="192" rposy="128" posX="608" posY="608" />
+		<tile_info rposx="192" rposy="128" posX="640" posY="608" />
+		<tile_info rposx="192" rposy="128" posX="672" posY="608" />
+		<tile_info rposx="192" rposy="128" posX="704" posY="608" />
+		<tile_info rposx="192" rposy="128" posX="736" posY="608" />
+		<tile_info rposx="192" rposy="128" posX="768" posY="608" />
+		<tile_info rposx="192" rposy="128" posX="800" posY="608" />
+		<tile_info rposx="192" rposy="128" posX="832" posY="608" />
+		<tile_info rposx="192" rposy="128" posX="864" posY="608" />
+		<tile_info rposx="192" rposy="128" posX="896" posY="608" />
+		<tile_info rposx="192" rposy="128" posX="928" posY="608" />
+		<tile_info rposx="192" rposy="128" posX="0" posY="640" />
+		<tile_info rposx="192" rposy="128" posX="32" posY="640" />
+		<tile_info rposx="192" rposy="128" posX="64" posY="640" />
+		<tile_info rposx="192" rposy="128" posX="96" posY="640" />
+		<tile_info rposx="192" rposy="128" posX="128" posY="640" />
+		<tile_info rposx="192" rposy="128" posX="160" posY="640" />
+		<tile_info rposx="192" rposy="128" posX="192" posY="640" />
+		<tile_info rposx="192" rposy="128" posX="224" posY="640" />
+		<tile_info rposx="192" rposy="128" posX="256" posY="640" />
+		<tile_info rposx="192" rposy="128" posX="288" posY="640" />
+		<tile_info rposx="192" rposy="128" posX="320" posY="640" />
+		<tile_info rposx="192" rposy="128" posX="352" posY="640" />
+		<tile_info rposx="192" rposy="128" posX="384" posY="640" />
+		<tile_info rposx="192" rposy="128" posX="416" posY="640" />
+		<tile_info rposx="192" rposy="128" posX="448" posY="640" />
+		<tile_info rposx="192" rposy="128" posX="480" posY="640" />
+		<tile_info rposx="192" rposy="128" posX="512" posY="640" />
+		<tile_info rposx="192" rposy="128" posX="544" posY="640" />
+		<tile_info rposx="192" rposy="128" posX="576" posY="640" />
+		<tile_info rposx="192" rposy="128" posX="608" posY="640" />
+		<tile_info rposx="192" rposy="128" posX="640" posY="640" />
+		<tile_info rposx="192" rposy="128" posX="672" posY="640" />
+		<tile_info rposx="192" rposy="128" posX="704" posY="640" />
+		<tile_info rposx="192" rposy="128" posX="736" posY="640" />
+		<tile_info rposx="192" rposy="128" posX="768" posY="640" />
+		<tile_info rposx="192" rposy="128" posX="800" posY="640" />
+		<tile_info rposx="192" rposy="128" posX="832" posY="640" />
+		<tile_info rposx="192" rposy="128" posX="864" posY="640" />
+		<tile_info rposx="192" rposy="128" posX="896" posY="640" />
+		<tile_info rposx="192" rposy="128" posX="928" posY="640" />
+		<tile_info rposx="192" rposy="128" posX="0" posY="672" />
+		<tile_info rposx="192" rposy="128" posX="32" posY="672" />
+		<tile_info rposx="192" rposy="128" posX="64" posY="672" />
+		<tile_info rposx="192" rposy="128" posX="96" posY="672" />
+		<tile_info rposx="192" rposy="128" posX="128" posY="672" />
+		<tile_info rposx="192" rposy="128" posX="160" posY="672" />
+		<tile_info rposx="192" rposy="128" posX="192" posY="672" />
+		<tile_info rposx="192" rposy="128" posX="224" posY="672" />
+		<tile_info rposx="192" rposy="128" posX="256" posY="672" />
+		<tile_info rposx="192" rposy="128" posX="288" posY="672" />
+		<tile_info rposx="192" rposy="128" posX="320" posY="672" />
+		<tile_info rposx="192" rposy="128" posX="352" posY="672" />
+		<tile_info rposx="192" rposy="128" posX="384" posY="672" />
+		<tile_info rposx="192" rposy="128" posX="416" posY="672" />
+		<tile_info rposx="192" rposy="128" posX="448" posY="672" />
+		<tile_info rposx="192" rposy="128" posX="480" posY="672" />
+		<tile_info rposx="192" rposy="128" posX="512" posY="672" />
+		<tile_info rposx="192" rposy="128" posX="544" posY="672" />
+		<tile_info rposx="192" rposy="128" posX="576" posY="672" />
+		<tile_info rposx="192" rposy="128" posX="608" posY="672" />
+		<tile_info rposx="192" rposy="128" posX="640" posY="672" />
+		<tile_info rposx="192" rposy="128" posX="672" posY="672" />
+		<tile_info rposx="192" rposy="128" posX="704" posY="672" />
+		<tile_info rposx="192" rposy="128" posX="736" posY="672" />
+		<tile_info rposx="192" rposy="128" posX="768" posY="672" />
+		<tile_info rposx="192" rposy="128" posX="800" posY="672" />
+		<tile_info rposx="192" rposy="128" posX="832" posY="672" />
+		<tile_info rposx="192" rposy="128" posX="864" posY="672" />
+		<tile_info rposx="192" rposy="128" posX="896" posY="672" />
+		<tile_info rposx="192" rposy="128" posX="928" posY="672" />
+		<tile_info rposx="192" rposy="128" posX="0" posY="704" />
+		<tile_info rposx="192" rposy="128" posX="32" posY="704" />
+		<tile_info rposx="192" rposy="128" posX="64" posY="704" />
+		<tile_info rposx="192" rposy="128" posX="96" posY="704" />
+		<tile_info rposx="192" rposy="128" posX="128" posY="704" />
+		<tile_info rposx="192" rposy="128" posX="160" posY="704" />
+		<tile_info rposx="192" rposy="128" posX="192" posY="704" />
+		<tile_info rposx="192" rposy="128" posX="224" posY="704" />
+		<tile_info rposx="192" rposy="128" posX="256" posY="704" />
+		<tile_info rposx="192" rposy="128" posX="288" posY="704" />
+		<tile_info rposx="192" rposy="128" posX="320" posY="704" />
+		<tile_info rposx="192" rposy="128" posX="352" posY="704" />
+		<tile_info rposx="192" rposy="128" posX="384" posY="704" />
+		<tile_info rposx="192" rposy="128" posX="416" posY="704" />
+		<tile_info rposx="192" rposy="128" posX="448" posY="704" />
+		<tile_info rposx="192" rposy="128" posX="480" posY="704" />
+		<tile_info rposx="192" rposy="128" posX="512" posY="704" />
+		<tile_info rposx="192" rposy="128" posX="544" posY="704" />
+		<tile_info rposx="192" rposy="128" posX="576" posY="704" />
+		<tile_info rposx="192" rposy="128" posX="608" posY="704" />
+		<tile_info rposx="192" rposy="128" posX="640" posY="704" />
+		<tile_info rposx="192" rposy="128" posX="672" posY="704" />
+		<tile_info rposx="192" rposy="128" posX="704" posY="704" />
+		<tile_info rposx="192" rposy="128" posX="736" posY="704" />
+		<tile_info rposx="192" rposy="128" posX="768" posY="704" />
+		<tile_info rposx="192" rposy="128" posX="800" posY="704" />
+		<tile_info rposx="192" rposy="128" posX="832" posY="704" />
+		<tile_info rposx="192" rposy="128" posX="864" posY="704" />
+		<tile_info rposx="192" rposy="128" posX="896" posY="704" />
+		<tile_info rposx="192" rposy="128" posX="928" posY="704" />
+		<tile_info rposx="192" rposy="128" posX="0" posY="736" />
+		<tile_info rposx="192" rposy="128" posX="32" posY="736" />
+		<tile_info rposx="192" rposy="128" posX="64" posY="736" />
+		<tile_info rposx="192" rposy="128" posX="96" posY="736" />
+		<tile_info rposx="192" rposy="128" posX="128" posY="736" />
+		<tile_info rposx="192" rposy="128" posX="160" posY="736" />
+		<tile_info rposx="192" rposy="128" posX="192" posY="736" />
+		<tile_info rposx="192" rposy="128" posX="224" posY="736" />
+		<tile_info rposx="192" rposy="128" posX="256" posY="736" />
+		<tile_info rposx="192" rposy="128" posX="288" posY="736" />
+		<tile_info rposx="192" rposy="128" posX="320" posY="736" />
+		<tile_info rposx="192" rposy="128" posX="352" posY="736" />
+		<tile_info rposx="192" rposy="128" posX="384" posY="736" />
+		<tile_info rposx="192" rposy="128" posX="416" posY="736" />
+		<tile_info rposx="192" rposy="128" posX="448" posY="736" />
+		<tile_info rposx="192" rposy="128" posX="480" posY="736" />
+		<tile_info rposx="192" rposy="128" posX="512" posY="736" />
+		<tile_info rposx="192" rposy="128" posX="544" posY="736" />
+		<tile_info rposx="192" rposy="128" posX="576" posY="736" />
+		<tile_info rposx="192" rposy="128" posX="608" posY="736" />
+		<tile_info rposx="192" rposy="128" posX="640" posY="736" />
+		<tile_info rposx="192" rposy="128" posX="672" posY="736" />
+		<tile_info rposx="192" rposy="128" posX="704" posY="736" />
+		<tile_info rposx="192" rposy="128" posX="736" posY="736" />
+		<tile_info rposx="192" rposy="128" posX="768" posY="736" />
+		<tile_info rposx="192" rposy="128" posX="800" posY="736" />
+		<tile_info rposx="192" rposy="128" posX="832" posY="736" />
+		<tile_info rposx="192" rposy="128" posX="864" posY="736" />
+		<tile_info rposx="192" rposy="128" posX="896" posY="736" />
+		<tile_info rposx="192" rposy="128" posX="928" posY="736" />
+		<tile_info rposx="192" rposy="128" posX="0" posY="768" />
+		<tile_info rposx="192" rposy="128" posX="32" posY="768" />
+		<tile_info rposx="192" rposy="128" posX="64" posY="768" />
+		<tile_info rposx="192" rposy="128" posX="96" posY="768" />
+		<tile_info rposx="192" rposy="128" posX="128" posY="768" />
+		<tile_info rposx="192" rposy="128" posX="160" posY="768" />
+		<tile_info rposx="192" rposy="128" posX="192" posY="768" />
+		<tile_info rposx="192" rposy="128" posX="224" posY="768" />
+		<tile_info rposx="192" rposy="128" posX="256" posY="768" />
+		<tile_info rposx="192" rposy="128" posX="288" posY="768" />
+		<tile_info rposx="192" rposy="128" posX="320" posY="768" />
+		<tile_info rposx="192" rposy="128" posX="352" posY="768" />
+		<tile_info rposx="192" rposy="128" posX="384" posY="768" />
+		<tile_info rposx="192" rposy="128" posX="416" posY="768" />
+		<tile_info rposx="192" rposy="128" posX="448" posY="768" />
+		<tile_info rposx="192" rposy="128" posX="480" posY="768" />
+		<tile_info rposx="192" rposy="128" posX="512" posY="768" />
+		<tile_info rposx="192" rposy="128" posX="544" posY="768" />
+		<tile_info rposx="192" rposy="128" posX="576" posY="768" />
+		<tile_info rposx="192" rposy="128" posX="608" posY="768" />
+		<tile_info rposx="192" rposy="128" posX="640" posY="768" />
+		<tile_info rposx="192" rposy="128" posX="672" posY="768" />
+		<tile_info rposx="192" rposy="128" posX="704" posY="768" />
+		<tile_info rposx="192" rposy="128" posX="736" posY="768" />
+		<tile_info rposx="192" rposy="128" posX="768" posY="768" />
+		<tile_info rposx="192" rposy="128" posX="800" posY="768" />
+		<tile_info rposx="192" rposy="128" posX="832" posY="768" />
+		<tile_info rposx="192" rposy="128" posX="864" posY="768" />
+		<tile_info rposx="192" rposy="128" posX="896" posY="768" />
+		<tile_info rposx="192" rposy="128" posX="928" posY="768" />
+		<tile_info rposx="192" rposy="128" posX="0" posY="800" />
+		<tile_info rposx="192" rposy="128" posX="32" posY="800" />
+		<tile_info rposx="192" rposy="128" posX="64" posY="800" />
+		<tile_info rposx="192" rposy="128" posX="96" posY="800" />
+		<tile_info rposx="192" rposy="128" posX="128" posY="800" />
+		<tile_info rposx="192" rposy="128" posX="160" posY="800" />
+		<tile_info rposx="192" rposy="128" posX="192" posY="800" />
+		<tile_info rposx="192" rposy="128" posX="224" posY="800" />
+		<tile_info rposx="192" rposy="128" posX="256" posY="800" />
+		<tile_info rposx="192" rposy="128" posX="288" posY="800" />
+		<tile_info rposx="192" rposy="128" posX="320" posY="800" />
+		<tile_info rposx="192" rposy="128" posX="352" posY="800" />
+		<tile_info rposx="192" rposy="128" posX="384" posY="800" />
+		<tile_info rposx="192" rposy="128" posX="416" posY="800" />
+		<tile_info rposx="192" rposy="128" posX="448" posY="800" />
+		<tile_info rposx="192" rposy="128" posX="480" posY="800" />
+		<tile_info rposx="192" rposy="128" posX="512" posY="800" />
+		<tile_info rposx="192" rposy="128" posX="544" posY="800" />
+		<tile_info rposx="192" rposy="128" posX="576" posY="800" />
+		<tile_info rposx="192" rposy="128" posX="608" posY="800" />
+		<tile_info rposx="192" rposy="128" posX="640" posY="800" />
+		<tile_info rposx="192" rposy="128" posX="672" posY="800" />
+		<tile_info rposx="192" rposy="128" posX="704" posY="800" />
+		<tile_info rposx="192" rposy="128" posX="736" posY="800" />
+		<tile_info rposx="192" rposy="128" posX="768" posY="800" />
+		<tile_info rposx="192" rposy="128" posX="800" posY="800" />
+		<tile_info rposx="192" rposy="128" posX="832" posY="800" />
+		<tile_info rposx="192" rposy="128" posX="864" posY="800" />
+		<tile_info rposx="192" rposy="128" posX="896" posY="800" />
+		<tile_info rposx="192" rposy="128" posX="928" posY="800" />
+		<tile_info rposx="192" rposy="128" posX="0" posY="832" />
+		<tile_info rposx="192" rposy="128" posX="32" posY="832" />
+		<tile_info rposx="192" rposy="128" posX="64" posY="832" />
+		<tile_info rposx="192" rposy="128" posX="96" posY="832" />
+		<tile_info rposx="192" rposy="128" posX="128" posY="832" />
+		<tile_info rposx="192" rposy="128" posX="160" posY="832" />
+		<tile_info rposx="192" rposy="128" posX="192" posY="832" />
+		<tile_info rposx="192" rposy="128" posX="224" posY="832" />
+		<tile_info rposx="192" rposy="128" posX="256" posY="832" />
+		<tile_info rposx="192" rposy="128" posX="288" posY="832" />
+		<tile_info rposx="192" rposy="128" posX="320" posY="832" />
+		<tile_info rposx="192" rposy="128" posX="352" posY="832" />
+		<tile_info rposx="192" rposy="128" posX="384" posY="832" />
+		<tile_info rposx="192" rposy="128" posX="416" posY="832" />
+		<tile_info rposx="192" rposy="128" posX="448" posY="832" />
+		<tile_info rposx="192" rposy="128" posX="480" posY="832" />
+		<tile_info rposx="192" rposy="128" posX="512" posY="832" />
+		<tile_info rposx="192" rposy="128" posX="544" posY="832" />
+		<tile_info rposx="192" rposy="128" posX="576" posY="832" />
+		<tile_info rposx="192" rposy="128" posX="608" posY="832" />
+		<tile_info rposx="192" rposy="128" posX="640" posY="832" />
+		<tile_info rposx="192" rposy="128" posX="672" posY="832" />
+		<tile_info rposx="192" rposy="128" posX="704" posY="832" />
+		<tile_info rposx="192" rposy="128" posX="736" posY="832" />
+		<tile_info rposx="192" rposy="128" posX="768" posY="832" />
+		<tile_info rposx="192" rposy="128" posX="800" posY="832" />
+		<tile_info rposx="192" rposy="128" posX="832" posY="832" />
+		<tile_info rposx="192" rposy="128" posX="864" posY="832" />
+		<tile_info rposx="192" rposy="128" posX="896" posY="832" />
+		<tile_info rposx="192" rposy="128" posX="928" posY="832" />
+		<tile_info rposx="192" rposy="128" posX="0" posY="864" />
+		<tile_info rposx="192" rposy="128" posX="32" posY="864" />
+		<tile_info rposx="192" rposy="128" posX="64" posY="864" />
+		<tile_info rposx="192" rposy="128" posX="96" posY="864" />
+		<tile_info rposx="192" rposy="128" posX="128" posY="864" />
+		<tile_info rposx="192" rposy="128" posX="160" posY="864" />
+		<tile_info rposx="192" rposy="128" posX="192" posY="864" />
+		<tile_info rposx="192" rposy="128" posX="224" posY="864" />
+		<tile_info rposx="192" rposy="128" posX="256" posY="864" />
+		<tile_info rposx="192" rposy="128" posX="288" posY="864" />
+		<tile_info rposx="192" rposy="128" posX="320" posY="864" />
+		<tile_info rposx="192" rposy="128" posX="352" posY="864" />
+		<tile_info rposx="192" rposy="128" posX="384" posY="864" />
+		<tile_info rposx="192" rposy="128" posX="416" posY="864" />
+		<tile_info rposx="192" rposy="128" posX="448" posY="864" />
+		<tile_info rposx="192" rposy="128" posX="480" posY="864" />
+		<tile_info rposx="192" rposy="128" posX="512" posY="864" />
+		<tile_info rposx="192" rposy="128" posX="544" posY="864" />
+		<tile_info rposx="192" rposy="128" posX="576" posY="864" />
+		<tile_info rposx="192" rposy="128" posX="608" posY="864" />
+		<tile_info rposx="192" rposy="128" posX="640" posY="864" />
+		<tile_info rposx="192" rposy="128" posX="672" posY="864" />
+		<tile_info rposx="192" rposy="128" posX="704" posY="864" />
+		<tile_info rposx="192" rposy="128" posX="736" posY="864" />
+		<tile_info rposx="192" rposy="128" posX="768" posY="864" />
+		<tile_info rposx="192" rposy="128" posX="800" posY="864" />
+		<tile_info rposx="192" rposy="128" posX="832" posY="864" />
+		<tile_info rposx="192" rposy="128" posX="864" posY="864" />
+		<tile_info rposx="192" rposy="128" posX="896" posY="864" />
+		<tile_info rposx="192" rposy="128" posX="928" posY="864" />
+		<tile_info rposx="192" rposy="128" posX="0" posY="896" />
+		<tile_info rposx="192" rposy="128" posX="32" posY="896" />
+		<tile_info rposx="192" rposy="128" posX="64" posY="896" />
+		<tile_info rposx="192" rposy="128" posX="96" posY="896" />
+		<tile_info rposx="192" rposy="128" posX="128" posY="896" />
+		<tile_info rposx="192" rposy="128" posX="160" posY="896" />
+		<tile_info rposx="192" rposy="128" posX="192" posY="896" />
+		<tile_info rposx="192" rposy="128" posX="224" posY="896" />
+		<tile_info rposx="192" rposy="128" posX="256" posY="896" />
+		<tile_info rposx="192" rposy="128" posX="288" posY="896" />
+		<tile_info rposx="192" rposy="128" posX="320" posY="896" />
+		<tile_info rposx="192" rposy="128" posX="352" posY="896" />
+		<tile_info rposx="192" rposy="128" posX="384" posY="896" />
+		<tile_info rposx="192" rposy="128" posX="416" posY="896" />
+		<tile_info rposx="192" rposy="128" posX="448" posY="896" />
+		<tile_info rposx="192" rposy="128" posX="480" posY="896" />
+		<tile_info rposx="192" rposy="128" posX="512" posY="896" />
+		<tile_info rposx="192" rposy="128" posX="544" posY="896" />
+		<tile_info rposx="192" rposy="128" posX="576" posY="896" />
+		<tile_info rposx="192" rposy="128" posX="608" posY="896" />
+		<tile_info rposx="192" rposy="128" posX="640" posY="896" />
+		<tile_info rposx="192" rposy="128" posX="672" posY="896" />
+		<tile_info rposx="192" rposy="128" posX="704" posY="896" />
+		<tile_info rposx="192" rposy="128" posX="736" posY="896" />
+		<tile_info rposx="192" rposy="128" posX="768" posY="896" />
+		<tile_info rposx="192" rposy="128" posX="800" posY="896" />
+		<tile_info rposx="192" rposy="128" posX="832" posY="896" />
+		<tile_info rposx="192" rposy="128" posX="864" posY="896" />
+		<tile_info rposx="192" rposy="128" posX="896" posY="896" />
+		<tile_info rposx="192" rposy="128" posX="928" posY="896" />
+		<tile_info rposx="192" rposy="128" posX="0" posY="928" />
+		<tile_info rposx="192" rposy="128" posX="32" posY="928" />
+		<tile_info rposx="192" rposy="128" posX="64" posY="928" />
+		<tile_info rposx="192" rposy="128" posX="96" posY="928" />
+		<tile_info rposx="192" rposy="128" posX="128" posY="928" />
+		<tile_info rposx="192" rposy="128" posX="160" posY="928" />
+		<tile_info rposx="192" rposy="128" posX="192" posY="928" />
+		<tile_info rposx="192" rposy="128" posX="224" posY="928" />
+		<tile_info rposx="192" rposy="128" posX="256" posY="928" />
+		<tile_info rposx="192" rposy="128" posX="288" posY="928" />
+		<tile_info rposx="192" rposy="128" posX="320" posY="928" />
+		<tile_info rposx="192" rposy="128" posX="352" posY="928" />
+		<tile_info rposx="192" rposy="128" posX="384" posY="928" />
+		<tile_info rposx="192" rposy="128" posX="416" posY="928" />
+		<tile_info rposx="192" rposy="128" posX="448" posY="928" />
+		<tile_info rposx="192" rposy="128" posX="480" posY="928" />
+		<tile_info rposx="192" rposy="128" posX="512" posY="928" />
+		<tile_info rposx="192" rposy="128" posX="544" posY="928" />
+		<tile_info rposx="192" rposy="128" posX="576" posY="928" />
+		<tile_info rposx="192" rposy="128" posX="608" posY="928" />
+		<tile_info rposx="192" rposy="128" posX="640" posY="928" />
+		<tile_info rposx="192" rposy="128" posX="672" posY="928" />
+		<tile_info rposx="192" rposy="128" posX="704" posY="928" />
+		<tile_info rposx="192" rposy="128" posX="736" posY="928" />
+		<tile_info rposx="192" rposy="128" posX="768" posY="928" />
+		<tile_info rposx="192" rposy="128" posX="800" posY="928" />
+		<tile_info rposx="192" rposy="128" posX="832" posY="928" />
+		<tile_info rposx="192" rposy="128" posX="864" posY="928" />
+		<tile_info rposx="192" rposy="128" posX="896" posY="928" />
+		<tile_info rposx="192" rposy="128" posX="928" posY="928" />
+	</tile_list>
+	<collsion_list>
+	</collsion_list>
+	<graph_list>
+	</graph_list>
+	<objects_list>
+		<object_info id="13" posX="0" posY="0" numEvents="0" numWaypoints="0" numEnemies="0" startState="0" sRectleft="160" sRecttop="32" sRectwidth="32" sRectheight="32">Empty</object_info>
+		<object_info id="13" posX="1" posY="0" numEvents="0" numWaypoints="0" numEnemies="0" startState="0" sRectleft="160" sRecttop="32" sRectwidth="32" sRectheight="32">Empty</object_info>
+		<object_info id="13" posX="2" posY="0" numEvents="0" numWaypoints="0" numEnemies="0" startState="0" sRectleft="160" sRecttop="32" sRectwidth="32" sRectheight="32">Empty</object_info>
+		<object_info id="13" posX="3" posY="0" numEvents="0" numWaypoints="0" numEnemies="0" startState="0" sRectleft="160" sRecttop="32" sRectwidth="32" sRectheight="32">Empty</object_info>
+		<object_info id="13" posX="4" posY="0" numEvents="0" numWaypoints="0" numEnemies="0" startState="0" sRectleft="160" sRecttop="32" sRectwidth="32" sRectheight="32">Empty</object_info>
+		<object_info id="13" posX="5" posY="0" numEvents="0" numWaypoints="0" numEnemies="0" startState="0" sRectleft="160" sRecttop="32" sRectwidth="32" sRectheight="32">Empty</object_info>
+		<object_info id="13" posX="6" posY="0" numEvents="0" numWaypoints="0" numEnemies="0" startState="0" sRectleft="160" sRecttop="32" sRectwidth="32" sRectheight="32">Empty</object_info>
+		<object_info id="13" posX="7" posY="0" numEvents="0" numWaypoints="0" numEnemies="0" startState="0" sRectleft="160" sRecttop="32" sRectwidth="32" sRectheight="32">Empty</object_info>
+		<object_info id="13" posX="8" posY="0" numEvents="0" numWaypoints="0" numEnemies="0" startState="0" sRectleft="160" sRecttop="32" sRectwidth="32" sRectheight="32">Empty</object_info>
+		<object_info id="13" posX="9" posY="0" numEvents="0" numWaypoints="0" numEnemies="0" startState="0" sRectleft="160" sRecttop="32" sRectwidth="32" sRectheight="32">Empty</object_info>
+		<object_info id="13" posX="10" posY="0" numEvents="0" numWaypoints="0" numEnemies="0" startState="0" sRectleft="160" sRecttop="32" sRectwidth="32" sRectheight="32">Empty</object_info>
+		<object_info id="13" posX="11" posY="0" numEvents="0" numWaypoints="0" numEnemies="0" startState="0" sRectleft="160" sRecttop="32" sRectwidth="32" sRectheight="32">Empty</object_info>
+		<object_info id="13" posX="12" posY="0" numEvents="0" numWaypoints="0" numEnemies="0" startState="0" sRectleft="160" sRecttop="32" sRectwidth="32" sRectheight="32">Empty</object_info>
+		<object_info id="13" posX="13" posY="0" numEvents="0" numWaypoints="0" numEnemies="0" startState="0" sRectleft="160" sRecttop="32" sRectwidth="32" sRectheight="32">Empty</object_info>
+		<object_info id="13" posX="14" posY="0" numEvents="0" numWaypoints="0" numEnemies="0" startState="0" sRectleft="160" sRecttop="32" sRectwidth="32" sRectheight="32">Empty</object_info>
+		<object_info id="13" posX="15" posY="0" numEvents="0" numWaypoints="0" numEnemies="0" startState="0" sRectleft="160" sRecttop="32" sRectwidth="32" sRectheight="32">Empty</object_info>
+		<object_info id="13" posX="16" posY="0" numEvents="0" numWaypoints="0" numEnemies="0" startState="0" sRectleft="160" sRecttop="32" sRectwidth="32" sRectheight="32">Empty</object_info>
+		<object_info id="13" posX="17" posY="0" numEvents="0" numWaypoints="0" numEnemies="0" startState="0" sRectleft="160" sRecttop="32" sRectwidth="32" sRectheight="32">Empty</object_info>
+		<object_info id="13" posX="18" posY="0" numEvents="0" numWaypoints="0" numEnemies="0" startState="0" sRectleft="160" sRecttop="32" sRectwidth="32" sRectheight="32">Empty</object_info>
+		<object_info id="13" posX="19" posY="0" numEvents="0" numWaypoints="0" numEnemies="0" startState="0" sRectleft="160" sRecttop="32" sRectwidth="32" sRectheight="32">Empty</object_info>
+		<object_info id="13" posX="20" posY="0" numEvents="0" numWaypoints="0" numEnemies="0" startState="0" sRectleft="160" sRecttop="32" sRectwidth="32" sRectheight="32">Empty</object_info>
+		<object_info id="13" posX="21" posY="0" numEvents="0" numWaypoints="0" numEnemies="0" startState="0" sRectleft="160" sRecttop="32" sRectwidth="32" sRectheight="32">Empty</object_info>
+		<object_info id="13" posX="22" posY="0" numEvents="0" numWaypoints="0" numEnemies="0" startState="0" sRectleft="160" sRecttop="32" sRectwidth="32" sRectheight="32">Empty</object_info>
+		<object_info id="13" posX="23" posY="0" numEvents="0" numWaypoints="0" numEnemies="0" startState="0" sRectleft="160" sRecttop="32" sRectwidth="32" sRectheight="32">Empty</object_info>
+		<object_info id="13" posX="24" posY="0" numEvents="0" numWaypoints="0" numEnemies="0" startState="0" sRectleft="160" sRecttop="32" sRectwidth="32" sRectheight="32">Empty</object_info>
+		<object_info id="13" posX="25" posY="0" numEvents="0" numWaypoints="0" numEnemies="0" startState="0" sRectleft="160" sRecttop="32" sRectwidth="32" sRectheight="32">Empty</object_info>
+		<object_info id="13" posX="26" posY="0" numEvents="0" numWaypoints="0" numEnemies="0" startState="0" sRectleft="160" sRecttop="32" sRectwidth="32" sRectheight="32">Empty</object_info>
+		<object_info id="13" posX="27" posY="0" numEvents="0" numWaypoints="0" numEnemies="0" startState="0" sRectleft="160" sRecttop="32" sRectwidth="32" sRectheight="32">Empty</object_info>
+		<object_info id="13" posX="28" posY="0" numEvents="0" numWaypoints="0" numEnemies="0" startState="0" sRectleft="160" sRecttop="32" sRectwidth="32" sRectheight="32">Empty</object_info>
+		<object_info id="13" posX="29" posY="0" numEvents="0" numWaypoints="0" numEnemies="0" startState="0" sRectleft="160" sRecttop="32" sRectwidth="32" sRectheight="32">Empty</object_info>
+		<object_info id="9" posX="0" posY="19" numEvents="0" numWaypoints="0" numEnemies="0" startState="0" sRectleft="32" sRecttop="32" sRectwidth="32" sRectheight="32">Empty</object_info>
+		<object_info id="9" posX="1" posY="18" numEvents="0" numWaypoints="0" numEnemies="0" startState="0" sRectleft="32" sRecttop="32" sRectwidth="32" sRectheight="32">Empty</object_info>
+		<object_info id="9" posX="2" posY="17" numEvents="0" numWaypoints="0" numEnemies="0" startState="0" sRectleft="32" sRecttop="32" sRectwidth="32" sRectheight="32">Empty</object_info>
+		<object_info id="9" posX="3" posY="16" numEvents="0" numWaypoints="0" numEnemies="0" startState="0" sRectleft="32" sRecttop="32" sRectwidth="32" sRectheight="32">Empty</object_info>
+		<object_info id="9" posX="4" posY="16" numEvents="0" numWaypoints="0" numEnemies="0" startState="0" sRectleft="32" sRecttop="32" sRectwidth="32" sRectheight="32">Empty</object_info>
+		<object_info id="9" posX="5" posY="16" numEvents="0" numWaypoints="0" numEnemies="0" startState="0" sRectleft="32" sRecttop="32" sRectwidth="32" sRectheight="32">Empty</object_info>
+		<object_info id="9" posX="6" posY="16" numEvents="0" numWaypoints="0" numEnemies="0" startState="0" sRectleft="32" sRecttop="32" sRectwidth="32" sRectheight="32">Empty</object_info>
+		<object_info id="9" posX="7" posY="16" numEvents="0" numWaypoints="0" numEnemies="0" startState="0" sRectleft="32" sRecttop="32" sRectwidth="32" sRectheight="32">Empty</object_info>
+		<object_info id="9" posX="8" posY="16" numEvents="0" numWaypoints="0" numEnemies="0" startState="0" sRectleft="32" sRecttop="32" sRectwidth="32" sRectheight="32">Empty</object_info>
+		<object_info id="9" posX="9" posY="16" numEvents="0" numWaypoints="0" numEnemies="0" startState="0" sRectleft="32" sRecttop="32" sRectwidth="32" sRectheight="32">Empty</object_info>
+		<object_info id="9" posX="10" posY="16" numEvents="0" numWaypoints="0" numEnemies="0" startState="0" sRectleft="32" sRecttop="32" sRectwidth="32" sRectheight="32">Empty</object_info>
+		<object_info id="9" posX="11" posY="16" numEvents="0" numWaypoints="0" numEnemies="0" startState="0" sRectleft="32" sRecttop="32" sRectwidth="32" sRectheight="32">Empty</object_info>
+		<object_info id="9" posX="12" posY="16" numEvents="0" numWaypoints="0" numEnemies="0" startState="0" sRectleft="32" sRecttop="32" sRectwidth="32" sRectheight="32">Empty</object_info>
+		<object_info id="9" posX="13" posY="16" numEvents="0" numWaypoints="0" numEnemies="0" startState="0" sRectleft="32" sRecttop="32" sRectwidth="32" sRectheight="32">Empty</object_info>
+		<object_info id="9" posX="14" posY="16" numEvents="0" numWaypoints="0" numEnemies="0" startState="0" sRectleft="32" sRecttop="32" sRectwidth="32" sRectheight="32">Empty</object_info>
+		<object_info id="9" posX="15" posY="16" numEvents="0" numWaypoints="0" numEnemies="0" startState="0" sRectleft="32" sRecttop="32" sRectwidth="32" sRectheight="32">Empty</object_info>
+		<object_info id="9" posX="16" posY="16" numEvents="0" numWaypoints="0" numEnemies="0" startState="0" sRectleft="32" sRecttop="32" sRectwidth="32" sRectheight="32">Empty</object_info>
+		<object_info id="9" posX="17" posY="16" numEvents="0" numWaypoints="0" numEnemies="0" startState="0" sRectleft="32" sRecttop="32" sRectwidth="32" sRectheight="32">Empty</object_info>
+		<object_info id="9" posX="18" posY="16" numEvents="0" numWaypoints="0" numEnemies="0" startState="0" sRectleft="32" sRecttop="32" sRectwidth="32" sRectheight="32">Empty</object_info>
+		<object_info id="9" posX="19" posY="16" numEvents="0" numWaypoints="0" numEnemies="0" startState="0" sRectleft="32" sRecttop="32" sRectwidth="32" sRectheight="32">Empty</object_info>
+		<object_info id="9" posX="20" posY="16" numEvents="0" numWaypoints="0" numEnemies="0" startState="0" sRectleft="32" sRecttop="32" sRectwidth="32" sRectheight="32">Empty</object_info>
+		<object_info id="9" posX="21" posY="16" numEvents="0" numWaypoints="0" numEnemies="0" startState="0" sRectleft="32" sRecttop="32" sRectwidth="32" sRectheight="32">Empty</object_info>
+		<object_info id="9" posX="22" posY="16" numEvents="0" numWaypoints="0" numEnemies="0" startState="0" sRectleft="32" sRecttop="32" sRectwidth="32" sRectheight="32">Empty</object_info>
+		<object_info id="9" posX="23" posY="16" numEvents="0" numWaypoints="0" numEnemies="0" startState="0" sRectleft="32" sRecttop="32" sRectwidth="32" sRectheight="32">Empty</object_info>
+		<object_info id="9" posX="24" posY="16" numEvents="0" numWaypoints="0" numEnemies="0" startState="0" sRectleft="32" sRecttop="32" sRectwidth="32" sRectheight="32">Empty</object_info>
+		<object_info id="9" posX="25" posY="16" numEvents="0" numWaypoints="0" numEnemies="0" startState="0" sRectleft="32" sRecttop="32" sRectwidth="32" sRectheight="32">Empty</object_info>
+		<object_info id="9" posX="26" posY="16" numEvents="0" numWaypoints="0" numEnemies="0" startState="0" sRectleft="32" sRecttop="32" sRectwidth="32" sRectheight="32">Empty</object_info>
+		<object_info id="9" posX="27" posY="17" numEvents="0" numWaypoints="0" numEnemies="0" startState="0" sRectleft="32" sRecttop="32" sRectwidth="32" sRectheight="32">Empty</object_info>
+		<object_info id="9" posX="28" posY="18" numEvents="0" numWaypoints="0" numEnemies="0" startState="0" sRectleft="32" sRecttop="32" sRectwidth="32" sRectheight="32">Empty</object_info>
+		<object_info id="9" posX="29" posY="19" numEvents="0" numWaypoints="0" numEnemies="0" startState="0" sRectleft="32" sRecttop="32" sRectwidth="32" sRectheight="32">Empty</object_info>
+		<object_info id="11" posX="0" posY="15" numEvents="0" numWaypoints="0" numEnemies="0" startState="0" sRectleft="96" sRecttop="32" sRectwidth="32" sRectheight="32">Empty</object_info>
+		<object_info id="11" posX="1" posY="14" numEvents="0" numWaypoints="0" numEnemies="0" startState="0" sRectleft="96" sRecttop="32" sRectwidth="32" sRectheight="32">Empty</object_info>
+		<object_info id="11" posX="2" posY="13" numEvents="0" numWaypoints="0" numEnemies="0" startState="0" sRectleft="96" sRecttop="32" sRectwidth="32" sRectheight="32">Empty</object_info>
+		<object_info id="11" posX="3" posY="13" numEvents="0" numWaypoints="0" numEnemies="0" startState="0" sRectleft="96" sRecttop="32" sRectwidth="32" sRectheight="32">Empty</object_info>
+		<object_info id="11" posX="4" posY="13" numEvents="0" numWaypoints="0" numEnemies="0" startState="0" sRectleft="96" sRecttop="32" sRectwidth="32" sRectheight="32">Empty</object_info>
+		<object_info id="11" posX="5" posY="13" numEvents="0" numWaypoints="0" numEnemies="0" startState="0" sRectleft="96" sRecttop="32" sRectwidth="32" sRectheight="32">Empty</object_info>
+		<object_info id="11" posX="6" posY="13" numEvents="0" numWaypoints="0" numEnemies="0" startState="0" sRectleft="96" sRecttop="32" sRectwidth="32" sRectheight="32">Empty</object_info>
+		<object_info id="11" posX="7" posY="13" numEvents="0" numWaypoints="0" numEnemies="0" startState="0" sRectleft="96" sRecttop="32" sRectwidth="32" sRectheight="32">Empty</object_info>
+		<object_info id="11" posX="8" posY="13" numEvents="0" numWaypoints="0" numEnemies="0" startState="0" sRectleft="96" sRecttop="32" sRectwidth="32" sRectheight="32">Empty</object_info>
+		<object_info id="11" posX="9" posY="13" numEvents="0" numWaypoints="0" numEnemies="0" startState="0" sRectleft="96" sRecttop="32" sRectwidth="32" sRectheight="32">Empty</object_info>
+		<object_info id="11" posX="10" posY="13" numEvents="0" numWaypoints="0" numEnemies="0" startState="0" sRectleft="96" sRecttop="32" sRectwidth="32" sRectheight="32">Empty</object_info>
+		<object_info id="11" posX="11" posY="13" numEvents="0" numWaypoints="0" numEnemies="0" startState="0" sRectleft="96" sRecttop="32" sRectwidth="32" sRectheight="32">Empty</object_info>
+		<object_info id="11" posX="12" posY="13" numEvents="0" numWaypoints="0" numEnemies="0" startState="0" sRectleft="96" sRecttop="32" sRectwidth="32" sRectheight="32">Empty</object_info>
+		<object_info id="11" posX="13" posY="13" numEvents="0" numWaypoints="0" numEnemies="0" startState="0" sRectleft="96" sRecttop="32" sRectwidth="32" sRectheight="32">Empty</object_info>
+		<object_info id="11" posX="14" posY="13" numEvents="0" numWaypoints="0" numEnemies="0" startState="0" sRectleft="96" sRecttop="32" sRectwidth="32" sRectheight="32">Empty</object_info>
+		<object_info id="11" posX="15" posY="13" numEvents="0" numWaypoints="0" numEnemies="0" startState="0" sRectleft="96" sRecttop="32" sRectwidth="32" sRectheight="32">Empty</object_info>
+		<object_info id="11" posX="16" posY="13" numEvents="0" numWaypoints="0" numEnemies="0" startState="0" sRectleft="96" sRecttop="32" sRectwidth="32" sRectheight="32">Empty</object_info>
+		<object_info id="11" posX="17" posY="13" numEvents="0" numWaypoints="0" numEnemies="0" startState="0" sRectleft="96" sRecttop="32" sRectwidth="32" sRectheight="32">Empty</object_info>
+		<object_info id="11" posX="18" posY="13" numEvents="0" numWaypoints="0" numEnemies="0" startState="0" sRectleft="96" sRecttop="32" sRectwidth="32" sRectheight="32">Empty</object_info>
+		<object_info id="11" posX="19" posY="13" numEvents="0" numWaypoints="0" numEnemies="0" startState="0" sRectleft="96" sRecttop="32" sRectwidth="32" sRectheight="32">Empty</object_info>
+		<object_info id="11" posX="20" posY="13" numEvents="0" numWaypoints="0" numEnemies="0" startState="0" sRectleft="96" sRecttop="32" sRectwidth="32" sRectheight="32">Empty</object_info>
+		<object_info id="11" posX="21" posY="13" numEvents="0" numWaypoints="0" numEnemies="0" startState="0" sRectleft="96" sRecttop="32" sRectwidth="32" sRectheight="32">Empty</object_info>
+		<object_info id="11" posX="22" posY="13" numEvents="0" numWaypoints="0" numEnemies="0" startState="0" sRectleft="96" sRecttop="32" sRectwidth="32" sRectheight="32">Empty</object_info>
+		<object_info id="11" posX="23" posY="13" numEvents="0" numWaypoints="0" numEnemies="0" startState="0" sRectleft="96" sRecttop="32" sRectwidth="32" sRectheight="32">Empty</object_info>
+		<object_info id="11" posX="24" posY="13" numEvents="0" numWaypoints="0" numEnemies="0" startState="0" sRectleft="96" sRecttop="32" sRectwidth="32" sRectheight="32">Empty</object_info>
+		<object_info id="11" posX="25" posY="13" numEvents="0" numWaypoints="0" numEnemies="0" startState="0" sRectleft="96" sRecttop="32" sRectwidth="32" sRectheight="32">Empty</object_info>
+		<object_info id="11" posX="26" posY="13" numEvents="0" numWaypoints="0" numEnemies="0" startState="0" sRectleft="96" sRecttop="32" sRectwidth="32" sRectheight="32">Empty</object_info>
+		<object_info id="11" posX="27" posY="13" numEvents="0" numWaypoints="0" numEnemies="0" startState="0" sRectleft="96" sRecttop="32" sRectwidth="32" sRectheight="32">Empty</object_info>
+		<object_info id="11" posX="28" posY="14" numEvents="0" numWaypoints="0" numEnemies="0" startState="0" sRectleft="96" sRecttop="32" sRectwidth="32" sRectheight="32">Empty</object_info>
+		<object_info id="11" posX="29" posY="15" numEvents="0" numWaypoints="0" numEnemies="0" startState="0" sRectleft="96" sRecttop="32" sRectwidth="32" sRectheight="32">Empty</object_info>
+		<object_info id="10" posX="0" posY="3" numEvents="0" numWaypoints="0" numEnemies="0" startState="0" sRectleft="64" sRecttop="32" sRectwidth="32" sRectheight="32">Empty</object_info>
+		<object_info id="10" posX="3" posY="3" numEvents="0" numWaypoints="0" numEnemies="0" startState="0" sRectleft="64" sRecttop="32" sRectwidth="32" sRectheight="32">Empty</object_info>
+		<object_info id="10" posX="6" posY="3" numEvents="0" numWaypoints="0" numEnemies="0" startState="0" sRectleft="64" sRecttop="32" sRectwidth="32" sRectheight="32">Empty</object_info>
+		<object_info id="10" posX="9" posY="3" numEvents="0" numWaypoints="0" numEnemies="0" startState="0" sRectleft="64" sRecttop="32" sRectwidth="32" sRectheight="32">Empty</object_info>
+		<object_info id="10" posX="12" posY="3" numEvents="0" numWaypoints="0" numEnemies="0" startState="0" sRectleft="64" sRecttop="32" sRectwidth="32" sRectheight="32">Empty</object_info>
+		<object_info id="10" posX="15" posY="3" numEvents="0" numWaypoints="0" numEnemies="0" startState="0" sRectleft="64" sRecttop="32" sRectwidth="32" sRectheight="32">Empty</object_info>
+		<object_info id="10" posX="18" posY="3" numEvents="0" numWaypoints="0" numEnemies="0" startState="0" sRectleft="64" sRecttop="32" sRectwidth="32" sRectheight="32">Empty</object_info>
+		<object_info id="10" posX="21" posY="3" numEvents="0" numWaypoints="0" numEnemies="0" startState="0" sRectleft="64" sRecttop="32" sRectwidth="32" sRectheight="32">Empty</object_info>
+		<object_info id="10" posX="24" posY="3" numEvents="0" numWaypoints="0" numEnemies="0" startState="0" sRectleft="64" sRecttop="32" sRectwidth="32" sRectheight="32">Empty</object_info>
+		<object_info id="10" posX="27" posY="3" numEvents="0" numWaypoints="0" numEnemies="0" startState="0" sRectleft="64" sRecttop="32" sRectwidth="32" sRectheight="32">Empty</object_info>
+		<object_info id="10" posX="29" posY="5" numEvents="0" numWaypoints="0" numEnemies="0" startState="0" sRectleft="64" sRecttop="32" sRectwidth="32" sRectheight="32">Empty</object_info>
+		<object_info id="10" posX="26" posY="5" numEvents="0" numWaypoints="0" numEnemies="0" startState="0" sRectleft="64" sRecttop="32" sRectwidth="32" sRectheight="32">Empty</object_info>
+		<object_info id="10" posX="23" posY="5" numEvents="0" numWaypoints="0" numEnemies="0" startState="0" sRectleft="64" sRecttop="32" sRectwidth="32" sRectheight="32">Empty</object_info>
+		<object_info id="10" posX="20" posY="5" numEvents="0" numWaypoints="0" numEnemies="0" startState="0" sRectleft="64" sRecttop="32" sRectwidth="32" sRectheight="32">Empty</object_info>
+		<object_info id="10" posX="17" posY="5" numEvents="0" numWaypoints="0" numEnemies="0" startState="0" sRectleft="64" sRecttop="32" sRectwidth="32" sRectheight="32">Empty</object_info>
+		<object_info id="10" posX="14" posY="5" numEvents="0" numWaypoints="0" numEnemies="0" startState="0" sRectleft="64" sRecttop="32" sRectwidth="32" sRectheight="32">Empty</object_info>
+		<object_info id="10" posX="11" posY="5" numEvents="0" numWaypoints="0" numEnemies="0" startState="0" sRectleft="64" sRecttop="32" sRectwidth="32" sRectheight="32">Empty</object_info>
+		<object_info id="10" posX="8" posY="5" numEvents="0" numWaypoints="0" numEnemies="0" startState="0" sRectleft="64" sRecttop="32" sRectwidth="32" sRectheight="32">Empty</object_info>
+		<object_info id="10" posX="5" posY="5" numEvents="0" numWaypoints="0" numEnemies="0" startState="0" sRectleft="64" sRecttop="32" sRectwidth="32" sRectheight="32">Empty</object_info>
+		<object_info id="10" posX="2" posY="5" numEvents="0" numWaypoints="0" numEnemies="0" startState="0" sRectleft="64" sRecttop="32" sRectwidth="32" sRectheight="32">Empty</object_info>
+		<object_info id="10" posX="0" posY="7" numEvents="0" numWaypoints="0" numEnemies="0" startState="0" sRectleft="64" sRecttop="32" sRectwidth="32" sRectheight="32">Empty</object_info>
+		<object_info id="10" posX="3" posY="7" numEvents="0" numWaypoints="0" numEnemies="0" startState="0" sRectleft="64" sRecttop="32" sRectwidth="32" sRectheight="32">Empty</object_info>
+		<object_info id="10" posX="6" posY="7" numEvents="0" numWaypoints="0" numEnemies="0" startState="0" sRectleft="64" sRecttop="32" sRectwidth="32" sRectheight="32">Empty</object_info>
+		<object_info id="10" posX="9" posY="7" numEvents="0" numWaypoints="0" numEnemies="0" startState="0" sRectleft="64" sRecttop="32" sRectwidth="32" sRectheight="32">Empty</object_info>
+		<object_info id="10" posX="12" posY="7" numEvents="0" numWaypoints="0" numEnemies="0" startState="0" sRectleft="64" sRecttop="32" sRectwidth="32" sRectheight="32">Empty</object_info>
+		<object_info id="10" posX="15" posY="7" numEvents="0" numWaypoints="0" numEnemies="0" startState="0" sRectleft="64" sRecttop="32" sRectwidth="32" sRectheight="32">Empty</object_info>
+		<object_info id="10" posX="18" posY="7" numEvents="0" numWaypoints="0" numEnemies="0" startState="0" sRectleft="64" sRecttop="32" sRectwidth="32" sRectheight="32">Empty</object_info>
+		<object_info id="10" posX="21" posY="7" numEvents="0" numWaypoints="0" numEnemies="0" startState="0" sRectleft="64" sRecttop="32" sRectwidth="32" sRectheight="32">Empty</object_info>
+		<object_info id="10" posX="24" posY="7" numEvents="0" numWaypoints="0" numEnemies="0" startState="0" sRectleft="64" sRecttop="32" sRectwidth="32" sRectheight="32">Empty</object_info>
+		<object_info id="10" posX="27" posY="7" numEvents="0" numWaypoints="0" numEnemies="0" startState="0" sRectleft="64" sRecttop="32" sRectwidth="32" sRectheight="32">Empty</object_info>
+		<object_info id="10" posX="29" posY="9" numEvents="0" numWaypoints="0" numEnemies="0" startState="0" sRectleft="64" sRecttop="32" sRectwidth="32" sRectheight="32">Empty</object_info>
+		<object_info id="10" posX="26" posY="9" numEvents="0" numWaypoints="0" numEnemies="0" startState="0" sRectleft="64" sRecttop="32" sRectwidth="32" sRectheight="32">Empty</object_info>
+		<object_info id="10" posX="23" posY="9" numEvents="0" numWaypoints="0" numEnemies="0" startState="0" sRectleft="64" sRecttop="32" sRectwidth="32" sRectheight="32">Empty</object_info>
+		<object_info id="10" posX="20" posY="9" numEvents="0" numWaypoints="0" numEnemies="0" startState="0" sRectleft="64" sRecttop="32" sRectwidth="32" sRectheight="32">Empty</object_info>
+		<object_info id="10" posX="17" posY="9" numEvents="0" numWaypoints="0" numEnemies="0" startState="0" sRectleft="64" sRecttop="32" sRectwidth="32" sRectheight="32">Empty</object_info>
+		<object_info id="10" posX="14" posY="9" numEvents="0" numWaypoints="0" numEnemies="0" startState="0" sRectleft="64" sRecttop="32" sRectwidth="32" sRectheight="32">Empty</object_info>
+		<object_info id="10" posX="11" posY="9" numEvents="0" numWaypoints="0" numEnemies="0" startState="0" sRectleft="64" sRecttop="32" sRectwidth="32" sRectheight="32">Empty</object_info>
+		<object_info id="10" posX="8" posY="9" numEvents="0" numWaypoints="0" numEnemies="0" startState="0" sRectleft="64" sRecttop="32" sRectwidth="32" sRectheight="32">Empty</object_info>
+		<object_info id="10" posX="5" posY="9" numEvents="0" numWaypoints="0" numEnemies="0" startState="0" sRectleft="64" sRecttop="32" sRectwidth="32" sRectheight="32">Empty</object_info>
+		<object_info id="10" posX="2" posY="9" numEvents="0" numWaypoints="0" numEnemies="0" startState="0" sRectleft="64" sRecttop="32" sRectwidth="32" sRectheight="32">Empty</object_info>
+		<object_info id="10" posX="0" posY="11" numEvents="0" numWaypoints="0" numEnemies="0" startState="0" sRectleft="64" sRecttop="32" sRectwidth="32" sRectheight="32">Empty</object_info>
+		<object_info id="10" posX="3" posY="11" numEvents="0" numWaypoints="0" numEnemies="0" startState="0" sRectleft="64" sRecttop="32" sRectwidth="32" sRectheight="32">Empty</object_info>
+		<object_info id="10" posX="6" posY="11" numEvents="0" numWaypoints="0" numEnemies="0" startState="0" sRectleft="64" sRecttop="32" sRectwidth="32" sRectheight="32">Empty</object_info>
+		<object_info id="10" posX="9" posY="11" numEvents="0" numWaypoints="0" numEnemies="0" startState="0" sRectleft="64" sRecttop="32" sRectwidth="32" sRectheight="32">Empty</object_info>
+		<object_info id="10" posX="12" posY="11" numEvents="0" numWaypoints="0" numEnemies="0" startState="0" sRectleft="64" sRecttop="32" sRectwidth="32" sRectheight="32">Empty</object_info>
+		<object_info id="10" posX="15" posY="11" numEvents="0" numWaypoints="0" numEnemies="0" startState="0" sRectleft="64" sRecttop="32" sRectwidth="32" sRectheight="32">Empty</object_info>
+		<object_info id="10" posX="18" posY="11" numEvents="0" numWaypoints="0" numEnemies="0" startState="0" sRectleft="64" sRecttop="32" sRectwidth="32" sRectheight="32">Empty</object_info>
+		<object_info id="10" posX="21" posY="11" numEvents="0" numWaypoints="0" numEnemies="0" startState="0" sRectleft="64" sRecttop="32" sRectwidth="32" sRectheight="32">Empty</object_info>
+		<object_info id="10" posX="24" posY="11" numEvents="0" numWaypoints="0" numEnemies="0" startState="0" sRectleft="64" sRecttop="32" sRectwidth="32" sRectheight="32">Empty</object_info>
+		<object_info id="10" posX="27" posY="11" numEvents="0" numWaypoints="0" numEnemies="0" startState="0" sRectleft="64" sRecttop="32" sRectwidth="32" sRectheight="32">Empty</object_info>
+    <object_info id="15" posX="15" posY="23" numEvents="0" numWaypoints="0" numEnemies="0" startState="0" sRectleft="0" sRecttop="0" sRectwidth="32" sRectheight="32">Empty</object_info>
+  </objects_list>
+</Level>
