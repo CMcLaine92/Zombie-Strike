@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Animations>
+  <Animation looping="0">bloodSpatter.png<Frame sx="1" sy="206" sw="105" sh="301" cx="-1" cy="-206" cw="-1" ch="-206" px="43" py="46" rx="42" ry="45" duration="0.25">NONE</Frame><Sheet path="C:\Users\fullsail\Desktop\ZombieStrike\resource\graphics\bloodSpatter.png" /></Animation>
+</Animations>
